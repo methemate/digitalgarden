@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-cupbearer-and-the-baker/"}
+{"dg-publish":true,"permalink":"/the-cupbearer-and-the-baker/","created":"2025-11-07T15:51:55.000-08:00","updated":"2025-12-11T12:51:47.496-08:00"}
 ---
 
 **Genesis 40**
