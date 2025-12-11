@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/harvest/grapes-vines-and-wine/","created":"2025-11-07T11:41:43.000-08:00","updated":"2025-12-11T14:05:46.998-08:00"}
+{"dg-publish":true,"permalink":"/harvest/grapes-vines-and-wine/","created":"2025-11-07T11:41:43.000-08:00","updated":"2025-12-11T14:06:34.189-08:00"}
 ---
 
 Look at this [[Psalms 80\|Psalms 80]]
 https://obsius.site/571u4e6n4j4s1d660e3g
 ### 📖 **Mentions in Scripture**
 
-#### ⚠️ Causes [[Folly\|Folly]] and Testing
+### ⚠️ Causes [[Folly\|Folly]] and Testing
 
 > **Genesis 9:20–21** – Noah planted a vineyard and drank of the wine
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
