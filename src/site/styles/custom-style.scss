@@ -1,53 +1,81 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    /* a href links to lexicon definitions */
+/* ================================
+   YOUR EXISTING FORMATTING FIXED
+   ================================ */
+
 /* Bible verse paragraphs */
-	.lexicon p {
-		font-family:Lora !important;
-		padding-top:0px !important;
-		margin-top: 0px !important;
-	}
-	/* Verse number headings */
-	.lexicon h3 {
-		margin:0px !important;
-		padding-bottom:0px !important;
-		padding-top:0px !important;
-	}
-	/* Bible Verses in preview */
-	.markdown-preview-view h3,
-	.cc-pretty-preview .markdown-preview-view h3
-	{
-	  position: relative;
-	  left: -2.5%;
-	  top: 25px;
-	  line-height: 0px;
-	  margin-top: -20px;
-	  margin-right: 3px;
-	  font-family: var(--font-family-preview);
-	  font-weight: 500;
-	  font-size: 50px !important;
-	  font-weight: bold;
-	  font-style: normal;;
-	  color: var(--text-faint) !important;
-	}
-	.markdown-preview-view a.internal-link[data-href^="H"],
-	.markdown-preview-view a.internal-link[data-href^="G"],
-	.markdown-embed a.internal-link[data-href^="H"],
-	.markdown-embed a.internal-link[data-href^="G"] {
-	  font-size: .65em;
-	  vertical-align: super;
-	  text-decoration: none !important;
-	  font-family: sans-serif !important;
-	  opacity: 77%;
-	}
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+.lexicon p {
+  font-family: Lora !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Verse number headings */
+.lexicon h3 {
+  margin: 0 !important;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Bible Verses in preview */
+.markdown-preview-view h3,
+.cc-pretty-preview .markdown-preview-view h3 {
+  position: relative;
+  left: -2.5%;
+  top: 25px;
+  line-height: 0;
+  margin-top: -20px;
+  margin-right: 3px;
+  font-family: var(--font-family-preview);
+  font-weight: 500;
+  font-size: 50px !important;
+  font-style: normal;
+  color: var(--text-faint) !important;
+}
+
+/* Lexicon superscript links (H####, G####) */
+.markdown-preview-view a.internal-link[data-href^="H"],
+.markdown-preview-view a.internal-link[data-href^="G"],
+.markdown-embed a.internal-link[data-href^="H"],
+.markdown-embed a.internal-link[data-href^="G"] {
+  font-size: .65em;
+  vertical-align: super;
+  text-decoration: none !important;
+  font-family: sans-serif !important;
+  opacity: 0.77;
+}
+
+/* ================================
+   SCRIPTURE CARDS (THE PART YOU WANT)
+   ================================ */
+
+/* Outer blockquote = grey rounded box */
+.markdown-preview-view blockquote,
+.dg-content blockquote {
+  margin: 1rem 0;
+  padding: 0.9rem 1.1rem;
+  background: var(--background-secondary, #f5f5f5);
+  border-radius: 8px;
+  border: 1px solid var(--background-modifier-border, #ddd);
+  border-left: 4px solid var(--interactive-accent, #e58e26);
+}
+
+/* Remove extra whitespace inside */
+.markdown-preview-view blockquote > p:first-child,
+.dg-content blockquote > p:first-child {
+  margin-top: 0;
+}
+.markdown-preview-view blockquote > p:last-child,
+.dg-content blockquote > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Nested verse blockquotes (![[genesis 9#20]]) inside card */
+.markdown-preview-view blockquote blockquote,
+.dg-content blockquote blockquote {
+  margin: 0.4rem 0 0.4rem 0.75rem;
+  padding-left: 0.75rem;
+  background: transparent;
+  border-radius: 0;
+  border: none;
+  border-left: 3px solid var(--text-muted, #c36);
 }
