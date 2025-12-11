@@ -4,71 +4,45 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
     /* a href links to lexicon definitions */
-.lexicon a[data-href^="H0"],
-.lexicon a[data-href^="H1"],
-.lexicon a[data-href^="H2"],
-.lexicon a[data-href^="H3"],
-.lexicon a[data-href^="H4"],
-.lexicon a[data-href^="H5"],
-.lexicon a[data-href^="H6"],
-.lexicon a[data-href^="H7"],
-.lexicon a[data-href^="H8"],
-.lexicon a[data-href^="H9"],
-.lexicon a[data-href^="G0"],
-.lexicon a[data-href^="G1"],
-.lexicon a[data-href^="G2"],
-.lexicon a[data-href^="G3"],
-.lexicon a[data-href^="G4"],
-.lexicon a[data-href^="G5"],
-.lexicon a[data-href^="G6"],
-.lexicon a[data-href^="G7"],
-.lexicon a[data-href^="G8"],
-.lexicon a[data-href^="G9"] {
-	font-size:.65em;
-	vertical-align:super;
-	text-decoration:none !important;
-	font-family:sans-serif !important;
-	opacity:77%;
-}
 /* Bible verse paragraphs */
-.lexicon p {
-	font-family:Lora !important;
-	padding-top:0px !important;
-	margin-top: 0px !important;
-}
-/* Verse number headings */
-.lexicon h3 {
-	margin:0px !important;
-	padding-bottom:0px !important;
-	padding-top:0px !important;
-}
-/* Bible Verses in preview */
-.markdown-preview-view h3,
-.cc-pretty-preview .markdown-preview-view h3
-{
-  position: relative;
-  left: -2.5%;
-  top: 25px;
-  line-height: 0px;
-  margin-top: -20px;
-  margin-right: 3px;
-  font-family: var(--font-family-preview);
-  font-weight: 500;
-  font-size: 50px !important;
-  font-weight: bold;
-  font-style: normal;;
-  color: var(--text-faint) !important;
-}
-.markdown-preview-view a.internal-link[data-href^="H"],
-.markdown-preview-view a.internal-link[data-href^="G"],
-.markdown-embed a.internal-link[data-href^="H"],
-.markdown-embed a.internal-link[data-href^="G"] {
-  font-size: .65em;
-  vertical-align: super;
-  text-decoration: none !important;
-  font-family: sans-serif !important;
-  opacity: 77%;
-}
+	.lexicon p {
+		font-family:Lora !important;
+		padding-top:0px !important;
+		margin-top: 0px !important;
+	}
+	/* Verse number headings */
+	.lexicon h3 {
+		margin:0px !important;
+		padding-bottom:0px !important;
+		padding-top:0px !important;
+	}
+	/* Bible Verses in preview */
+	.markdown-preview-view h3,
+	.cc-pretty-preview .markdown-preview-view h3
+	{
+	  position: relative;
+	  left: -2.5%;
+	  top: 25px;
+	  line-height: 0px;
+	  margin-top: -20px;
+	  margin-right: 3px;
+	  font-family: var(--font-family-preview);
+	  font-weight: 500;
+	  font-size: 50px !important;
+	  font-weight: bold;
+	  font-style: normal;;
+	  color: var(--text-faint) !important;
+	}
+	.markdown-preview-view a.internal-link[data-href^="H"],
+	.markdown-preview-view a.internal-link[data-href^="G"],
+	.markdown-embed a.internal-link[data-href^="H"],
+	.markdown-embed a.internal-link[data-href^="G"] {
+	  font-size: .65em;
+	  vertical-align: super;
+	  text-decoration: none !important;
+	  font-family: sans-serif !important;
+	  opacity: 77%;
+	}
     //  background-color: white;
     //  .content {
     //   font-size: 14px;
