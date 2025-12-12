@@ -1,20 +1,20 @@
 /* ================================
-   LEXICON STRONG'S NUMBER LINKS
+   Strong's numbers styling on the WEBSITE
    ================================ */
 
-/* Matches all H#### and G#### lexicon links */
-.lexicon a[data-href^="H"],
-.lexicon a[data-href^="G"],
-.markdown-preview-view a.internal-link[data-href^="H"],
-.markdown-preview-view a.internal-link[data-href^="G"],
-.markdown-embed a.internal-link[data-href^="H"],
-.markdown-embed a.internal-link[data-href^="G"] {
-    font-size: .65em;
+/* Main content area – adjust .content / main / article if needed */
+main a[href*="/H"],
+main a[href*="/G"],
+main a[href$="/H"],
+main a[href$="/G"] {
+    font-size: 0.65em;
     vertical-align: super;
-    text-decoration: none !important;
-    font-family: sans-serif !important;
-    opacity: 0.77;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: var(--text-accent, #d97a7a);  /* optional: tint like your preview */
+    opacity: 0.9;
 }
+
 
 /* ================================
    BIBLE VERSE PARAGRAPHS
