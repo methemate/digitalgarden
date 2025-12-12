@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/women-in-ministry/","created":"2025-12-12T12:31:01.120-08:00","updated":"2025-12-12T13:27:25.398-08:00"}
+{"dg-publish":true,"permalink":"/women-in-ministry/","created":"2025-12-12T12:31:01.120-08:00","updated":"2025-12-12T13:47:08.812-08:00"}
 ---
 
 
@@ -9,9 +9,9 @@
 
 3 places that mentioned
 
-1 Corinthians 14 (wrote for Corinthians)  
-1 Timothy 2 (for Ephesus)  
-Titus 1 (for Crete)
+[[KJV Tagged + Lexicon/Bible 2/46 - 1 Corinthians/1 Corinthians 14/1 Corinthians 14\|1 Corinthians 14]] (wrote for Corinthians)  
+[[KJV Tagged + Lexicon/Bible 2/54 - 1 Timothy/1 Timothy 2/1 Timothy 2\|1 Timothy 2]] (for Ephesus)  
+[[KJV Tagged + Lexicon/Bible 2/56 - Titus/Titus 1/Titus 1\|Titus 1]] (for Crete)
 
 Usually when there is correction in a letter, the writer is using wisdom and spiritual guidance to correct current events. You should try to understand the ways of God first.
 
@@ -20,9 +20,9 @@ Usually when there is correction in a letter, the writer is using wisdom and spi
 ---
 
 ## **Corinth**
-This was about disorder, not gender.
+This was about **==disorder==**.
 
-In Corinth, people were worshipping Aphrodite. Aphrodite’s cult was tied to sexual freedom and indulgence. The environment encouraged women to use sexuality as power, leading to abuse of roles. “your body is a temple of the Holy Spirit” reaffirm that sexuality as under Christ’s authority, not a goddess’s. (To worship the goddess, you would go to her temple and have sex with the priests). So you can see how Aphrodite had so much influence.
+In Corinth, people were worshipping **Aphrodite**. Aphrodite’s cult was tied to *sexual freedom* and *indulgence*. The environment encouraged women to use sexuality as power, **leading to abuse of roles**. “your body is a temple of the Holy Spirit” reaffirm that sexuality as under Christ’s authority, not a goddess’s. (To worship the goddess, you would go to her temple and have sex with the priests). So you can see how Aphrodite had so much influence.
 
 > **1 Corinthians 6:19–20**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -34,7 +34,7 @@ What? [[G2228\|G2228]] know ye [[G1492\|G1492]] not [[G3756\|G3756]] that [[G375
 
 
 </div></div>
-  
+ 
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -46,7 +46,7 @@ For [[G1063\|G1063]] ye are bought [[G59\|G59]] with a price: [[G5092\|G5092]] t
 </div></div>
 
 
-At that time, women were also disruptive during worship (some people say for lack of education; Imo there questions were more so because they are taught by the Aphrodite worshipper). So Paul decree for them to ask their husband.
+At that time, women were also **disruptive during worship** (some people say for lack of education; Imo their questions were more so because they are taught by the Aphrodite worshipper). So Paul decree for them to ask their husband.
 
 > **1 Corinthians 14:33–35**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -71,8 +71,7 @@ And [[G1161\|G1161]] if [[G1487\|G1487]] they will [[G2309\|G2309]] learn [[G312
 </div></div>
 
 
-Women were already praying and prophesying.
-
+Praying with uncovered head at the time was a way to show disobedient to the culture at the time.
 > **1 Corinthians 11:5**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -83,7 +82,6 @@ But [[G1161\|G1161]] every [[G3956\|G3956]] woman [[G1135\|G1135]] that prayeth 
 
 
 </div></div>
-
 
 ---
 
@@ -162,9 +160,9 @@ One [[G5100\|G5100]] of [[G1537\|G1537]] themselves, [[G846\|G846]] a prophet [[
 </div></div>
 
 
-While I’m not entirely sure abt the connection, Rhea was worshipped as Zeus mother. There were female led worship and probably other doctrine that leads to much disorder.
+*While I’m not entirely sure about the connection*, Rhea was worshipped as Zeus mother. There were female led worship and probably other doctrine that leads to much disorder.
 
-That’s likely why Paul in Titus 2 instructed the older women to teach younger women “to love their husbands, to love their children, to be sensible, pure, workers at home, kind, being subject to their own husbands, so that the word of God will not be dishonored.”
+That’s likely why Paul in [[KJV Tagged + Lexicon/Bible 2/56 - Titus/Titus 2/Titus 2\|Titus 2]] instructed **the older women to teach younger women** “to love their husbands, to love their children, to be sensible, pure, workers at home, kind, being subject to their own husbands, so that the word of God will not be dishonored.”
 
 > **Titus 2:3–5**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -192,7 +190,7 @@ discreet, [[G4998\|G4998]] chaste, [[G53\|G53]] keepers at home, [[G3626\|G3626]
 ---
 
 ## **Does this mean where shall be no Women in the 5-fold?**
-NO.
+NO. Here are the examples.
 
 ---
 
@@ -217,7 +215,7 @@ Salute [[G782\|G782]] Andronicus [[G408\|G408]] and [[G2532\|G2532]] Junia, [[G2
 ## **Prophets**
 
 “Every woman who prays or prophesies with her head uncovered dishonors her head”
-
+Women were already praying and prophesying.
 > **1 Corinthians 11:5**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -246,7 +244,7 @@ And [[G1161\|G1161]] the same man [[G5129\|G5129]] had [[G2258\|G2258]] four [[G
 
 Also are plenty of named prophetess in the OT.
 
-> **Judges 4:4**
+> **Judges 4:4 - Deborah**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -258,7 +256,7 @@ And Deborah, [[H1683\|H1683]] a prophetess, [[H5031\|H5031]] the wife [[H802\|H8
 </div></div>
 
 
-> **2 Kings 22:14–15**
+> **2 Kings 22:14–15 - Hilkiah**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -281,7 +279,7 @@ And she said [[H559\|H559]] unto [[H413\|H413]] them, Thus [[H3541\|H3541]] sait
 </div></div>
 
 
-> **Luke 2:36–38**
+> **Luke 2:36–38 - Anna**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -335,7 +333,7 @@ Come, [[G1205\|G1205]] see [[G1492\|G1492]] a man, [[G444\|G444]] which [[G3739\
 </div></div>
 
 
-The function is there. But only 1 evangelist was named, that was Phillip.
+The function is there. ==But only **ONE evangelist** was mentioned by [[Women in Ministry#**Functions vs Offices**\|Office]]==, that was Phillip.
 
 > **Acts 21:8**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -400,7 +398,7 @@ No.
 Have women performed functions related to elders’ functions?  
 Maybe.
 
-Nympha in Colossians 4 have a church met in her house.
+**Nympha** in[[ Colossians 4\| Colossians 4]] have a church met in her house.
 
 > **Colossians 4:15**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -414,7 +412,7 @@ Salute [[G782\|G782]] the [[G3588\|G3588]] brethren [[G80\|G80]] which are in [[
 </div></div>
 
 
-Chloe’s in Corinthians 1 opens her house to church meetings.
+Chloe’s in [[KJV Tagged + Lexicon/Bible 2/46 - 1 Corinthians/1 Corinthians 1/1 Corinthians 1\|1 Corinthians 1]] opens her house to church meetings.
 
 > **1 Corinthians 1:11**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -428,7 +426,7 @@ For [[G1063\|G1063]] it hath been declared [[G1213\|G1213]] unto me [[G3427\|G34
 </div></div>
 
 
-Priscilla and Aquila hosted a church in Romans 16.
+**Priscilla** and **Aquila** hosted a church in [[KJV Tagged + Lexicon/Bible 2/45 - Romans/Romans 16/Romans 16\|Romans 16]].
 
 > **Romans 16:3–5**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -487,7 +485,7 @@ And [[G2532\|G2532]] when he had found [[G2147\|G2147]] him, [[G846\|G846]] he b
 </div></div>
 
 
-Apollos was taught.
+Apollos was taught by Aquila dn Priscilla.
 
 > **Acts 18:26**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -531,7 +529,7 @@ But the office is not always named.
 Elders are required to teach.  
 Teaching is pervasive but rarely titled.
 
-Women clearly perform the functions.
+**Women clearly perform the functions.**
 
 ---
 
@@ -584,6 +582,52 @@ I commend [[G4921\|G4921]] unto you [[G5213\|G5213]] Phebe [[G5402\|G5402]] our 
 
 </div></div>
 
+
+---
+## **Who can[[Prepare the Way#**Who shall carry the call?**\| the Call]]?**
+The call shall come but do you meet the requirement?
+Many be you meet the requirement but are you [[Prepare the Way#**Be of Good Courage**\|of Good Courage?]] 
+
+***Many** are **called** but **few** are **chosen**.*
+
+God used Deborah to deliver the enemy into the hand of **Barak**. But he refused to go up unless Deborah went with him. Thus, God gave **Sisera** into the hand of a woman named **Jael**.
+
+> **Judges 4:6–9**
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### 6
+And she sent [[H7971\|H7971]] and called [[H7121\|H7121]] Barak [[H1301\|H1301]] the son [[H1121\|H1121]] of Abinoam [[H42\|H42]] out of Kedesh-naphtali, [[H6943\|H6943]] and said [[H559\|H559]] unto [[H413\|H413]] him, Hath not [[H3808\|H3808]] the Lord [[H3068\|H3068]] God [[H430\|H430]] of Israel [[H3478\|H3478]] commanded, [[H6680\|H6680]] Go [[H1980\|H1980]] and draw [[H4900\|H4900]] toward mount [[H2022\|H2022]] Tabor, [[H8396\|H8396]] and take [[H3947\|H3947]] with [[H5973\|H5973]] thee ten [[H6235\|H6235]] thousand [[H505\|H505]] men [[H376\|H376]] of the children [[H1121\|H1121]] of Naphtali [[H5321\|H5321]] and of the children [[H1121\|H1121]] of Zebulun? [[H2074\|H2074]]
+
+
+</div></div>
+  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### 9
+And she said, [[H559\|H559]] I will surely [[H1980\|H1980]] go [[H1980\|H1980]] with [[H5973\|H5973]] thee: notwithstanding [[H657\|H657]] the journey [[H1870\|H1870]] that [[H834\|H834]] thou [[H859\|H859]] takest [[H1980\|H1980]] shall not [[H3808\|H3808]] be [[H1961\|H1961]] for thine honour; [[H8597\|H8597]] for [[H3588\|H3588]] the Lord [[H3068\|H3068]] shall sell [[H4376\|H4376]] Sisera [[H5516\|H5516]] into the hand [[H3027\|H3027]] of a woman. [[H802\|H802]] And Deborah [[H1683\|H1683]] arose, [[H6965\|H6965]] and went [[H1980\|H1980]] with [[H5973\|H5973]] Barak [[H1301\|H1301]] to Kedesh. [[H6943\|H6943]]
+
+
+</div></div>
+
+
+> **Judges 4:21**
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### 21
+Then Jael [[H3278\|H3278]] Heber's [[H2268\|H2268]] wife [[H802\|H802]] took [[H3947\|H3947]] a nail [[H3489\|H3489]] of the tent, [[H168\|H168]] and took [[H7760\|H7760]] an hammer [[H4718\|H4718]] in her hand, [[H3027\|H3027]] and went [[H935\|H935]] softly [[H3814\|H3814]] unto [[H413\|H413]] him, and smote [[H8628\|H8628]] the nail [[H3489\|H3489]] into his temples, [[H7541\|H7541]] and fastened [[H6795\|H6795]] it into the ground: [[H776\|H776]] for he [[H1931\|H1931]] was fast asleep [[H7290\|H7290]] and weary. [[H5774\|H5774]] So he died. [[H4191\|H4191]]
+
+
+</div></div>
+
+
+> **That's the way of God.**
 
 ---
 
