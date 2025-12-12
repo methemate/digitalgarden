@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-11T23:54:20.483-08:00"}
+{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-12T01:33:50.688-08:00"}
 ---
 
 ## **What's Prepare the Way?**
-In days past, a King in victory would announce himself coming prior to going past an area. What people would do is to lower the mountains and fill up the valley to make the road flat. Then they would redo the terrain and make the way straight so that **the King** and **His train** (the people behind him; enemy defeated and people in his house) can go through. It's like a victory laps.
+In days past, a King in victory would announce himself coming prior to going past an area. What people would do is to **lower the mountains** *(places of idols altars)* and **fill up the valley** *(places of idols sacrifice)* to make the road flat. Then they would redo the terrain and make the way straight so that **the King** and **His train** (officials, soldiers, captives, spoils) can go through. It's a victory laps.
 ## 📖 **Mentions in Scripture**
-
+#### Who shall carry the call?
 > **Mark 1:1–8** 
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -116,7 +116,7 @@ I [[G1473\|G1473]] indeed [[G3303\|G3303]] have baptized [[G907\|G907]] you [[G5
 
 > *Seek understanding and obey the call. He who is faithful will give you his Grace to see you through.*
 
-
+## Be of Good Courage
 > **2 Samuel 10:4–5** – Hanun humiliates David’s servants  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -158,7 +158,7 @@ Wherefore Hanun [[H2586\|H2586]] took [[H3947\|H3947]] David's [[H1732\|H1732]] 
 
 
 </div></div>
-
+ 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -169,6 +169,9 @@ When they told [[H5046\|H5046]] unto David, [[H1732\|H1732]] he sent [[H7971\|H7
 
 </div></div>
 
+- David had no ill-intention yet the princes were easily persuaded and deceived. They lacked discernment for who David is. --> train your [[Discernment\|Discernment]].
+- They cut off half of their **beards** and **garments** show disrespect towards their **strength** and **dignity**
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -199,6 +202,8 @@ And the children [[H1121\|H1121]] of Ammon [[H5983\|H5983]] came out, [[H3318\|H
 
 </div></div>
 
+- The children of Ammon called upon the nations to go against David the King ==so **he sent Joab**.==
+>
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -239,6 +244,13 @@ Be of good courage, [[H2388\|H2388]] and let us play the men [[H2388\|H2388]] fo
 
 </div></div>
 
+- Notice that they draw upon the choice men of Israel. That means they have already trained up even before they were called upon. ***If we start training when we are called, it might be too late.*** ==Wisdom is to prepare even beforehand.==
+- To stand against the Nation, Joab and Abishai **rely also upon one another**. They have a **strategy for battle**. 
+- Think about Abraham men (find the reference). Abraham brought 300 men against 10,000. He fought against multiple kingdom. Mind you these kingdom fought the Giants to get into the land (Find the reference). Yes, the Lord were with them. But would untrained men have the **==courage==** to carry the call?
+- How about David and Goliath? He refused to take the king's armor and choose to take the equipment that he's used to. (likely his shepherd staffs and the slingshot) Is he an untrained kid? No. *This brother fought the lions and bears, fam!!*
+- **YET**, being trained doesn't mean everything. When Gideon called upon Ephraim to fight the Midian and ... (Find the reference), although they were trained with the bow refused the called. ==***Thus, they did not join in the glory of the battle.***== 
+- Notice he said "Let the Lord do that which seemed good to Him" after preparing for war and just before he's about to fight the enemy. We the church often think that we just need to wait and let the Lord take everything back for us. **==Yet, THAT'S NOT GOD"S WAY. WAKE UP==**
+>
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -249,6 +261,8 @@ And Joab [[H3097\|H3097]] drew nigh, [[H5066\|H5066]] and the people [[H5971\|H5
 
 </div></div>
 
+- Joab started the battle here while the Syrians were just waging war.
+>
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -308,6 +322,12 @@ And when all [[H3605\|H3605]] the kings [[H4428\|H4428]] servants [[H5650\|H5650
 
 </div></div>
 
+- David the King came in after and finished the battle that started by Joab his servant.
+- 700 chariots is the number of a decisive and complete breaking of enemy power.
+- 40,000 horsemen is the number of complete dispersion of the opposing forces.
+- The enemy is now put under Dave's feet.
+#### Wisdom
+There are times when trouble come **by no cause**, even from those who you called friend. **By lack of discernment**, the nations are deceived. **Nations shall called upon nations** to stand up against The Lord and His Kingdom (and us). *What shall we do?* **Like David sent Joab. He has sent us forth**. *Are we trained? Can we fight Giants and Mighty men?* ==**Be of Good Courage!**== 
 
 > **Luke 10:4** – Sent out two by two, taking nothing  
 > 
