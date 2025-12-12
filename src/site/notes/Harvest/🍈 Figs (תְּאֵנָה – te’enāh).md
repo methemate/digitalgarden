@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/harvest/figs-te-enah/","created":"2025-11-07T11:41:43.000-08:00","updated":"2025-12-11T13:09:03.178-08:00"}
+{"dg-publish":true,"permalink":"/harvest/figs-te-enah/","created":"2025-11-07T11:41:43.000-08:00","updated":"2025-12-11T21:22:36.533-08:00"}
 ---
 
-### 📖 **Mentions in Scripture**
+#### 📖 **Mentions in Scripture**
 
 > **Genesis 3:7** – ==Adam and Eve sewed _fig leaves_ together for coverings==
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
