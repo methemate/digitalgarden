@@ -1,17 +1,25 @@
 /* ================================
-   Strong's numbers styling on the WEBSITE
+   Strong's numbers styling (site + preview)
    ================================ */
 
-/* Main content area – adjust .content / main / article if needed */
-main a[href*="/H"],
-main a[href*="/G"],
-main a[href$="/H"],
-main a[href$="/G"] {
+/* Obsidian preview / embeds by data-href */
+.lexicon a[data-href^="H"],
+.lexicon a[data-href^="G"],
+.markdown-preview-view a.internal-link[data-href^="H"],
+.markdown-preview-view a.internal-link[data-href^="G"],
+.markdown-embed a.internal-link[data-href^="H"],
+.markdown-embed a.internal-link[data-href^="G"],
+
+/* Published website – Strong’s links by href */
+a.internal-link[href^="H"],
+a.internal-link[href^="G"],
+a[href^="/H"],
+a[href^="/G"] {
     font-size: 0.65em;
     vertical-align: super;
-    text-decoration: none;
-    font-family: sans-serif;
-    color: var(--text-accent, #d97a7a);  /* optional: tint like your preview */
+    text-decoration: none !important;
+    font-family: sans-serif !important;
+    color: var(--text-accent, #d97a7a);
     opacity: 0.9;
 }
 
