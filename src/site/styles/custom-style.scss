@@ -1,8 +1,8 @@
 /* ================================
-   Strong's numbers styling (site + preview)
+   Strong’s numbers — Obsidian (data-href) + Website (href)
    ================================ */
 
-/* Obsidian preview / embeds by data-href */
+/* Obsidian */
 .lexicon a[data-href^="H"],
 .lexicon a[data-href^="G"],
 .markdown-preview-view a.internal-link[data-href^="H"],
@@ -10,18 +10,20 @@
 .markdown-embed a.internal-link[data-href^="H"],
 .markdown-embed a.internal-link[data-href^="G"],
 
-/* Published website – Strong’s links by href */
-a.internal-link[href^="H"],
-a.internal-link[href^="G"],
+/* Digital Garden website (most common patterns) */
 a[href^="/H"],
-a[href^="/G"] {
-    font-size: 0.65em;
-    vertical-align: super;
-    text-decoration: none !important;
-    font-family: sans-serif !important;
-    color: var(--text-accent, #d97a7a);
-    opacity: 0.9;
+a[href^="/G"],
+a[href*="/H"],
+a[href*="/G"],
+a[href^="H"],
+a[href^="G"] {
+  font-size: 0.65em;
+  vertical-align: super;
+  text-decoration: none !important;
+  font-family: sans-serif !important;
+  opacity: 0.77;
 }
+
 
 
 /* ================================
