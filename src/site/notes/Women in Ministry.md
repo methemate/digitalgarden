@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/women-in-ministry/","created":"2025-12-12T12:31:01.120-08:00","updated":"2025-12-12T13:47:08.812-08:00"}
+{"dg-publish":true,"permalink":"/women-in-ministry/","created":"2025-12-12T12:31:01.120-08:00","updated":"2025-12-12T13:51:51.840-08:00"}
 ---
 
 
 > Understand that this subject should be approached with **Wisdom from the Lord**. My view on this changed within the past year because of this study. I would **refrain from reading** and **only come back when the Lord prompt you** to explore this further.
----
 ## **Three Places Mentioned**
 
 3 places that mentioned
@@ -16,8 +15,6 @@
 Usually when there is correction in a letter, the writer is using wisdom and spiritual guidance to correct current events. You should try to understand the ways of God first.
 
 ## **So what event was he correcting?**
-
----
 
 ## **Corinth**
 This was about **==disorder==**.
@@ -83,7 +80,7 @@ But [[G1161\|G1161]] every [[G3956\|G3956]] woman [[G1135\|G1135]] that prayeth 
 
 </div></div>
 
----
+
 
 ## **Ephesus**
 This was about domination theology.
@@ -139,7 +136,7 @@ But [[G1161\|G1161]] I suffer [[G2010\|G2010]] not [[G3756\|G3756]] a woman [[G1
 </div></div>
 
 
----
+
 
 ## **Crete**
 This was about restoring order.
@@ -187,12 +184,8 @@ discreet, [[G4998\|G4998]] chaste, [[G53\|G53]] keepers at home, [[G3626\|G3626]
 </div></div>
 
 
----
-
 ## **Does this mean where shall be no Women in the 5-fold?**
 NO. Here are the examples.
-
----
 
 ## **Apostles**
 
@@ -209,8 +202,6 @@ Salute [[G782\|G782]] Andronicus [[G408\|G408]] and [[G2532\|G2532]] Junia, [[G2
 
 </div></div>
 
-
----
 
 ## **Prophets**
 
@@ -302,8 +293,6 @@ And [[G2532\|G2532]] she [[G3778\|G3778]] coming [[G2186\|G2186]] in gave likewi
 </div></div>
 
 
----
-
 ## **Evangelist**
 
 Duh..
@@ -346,8 +335,6 @@ And [[G1161\|G1161]] the [[G3588\|G3588]] next [[G1887\|G1887]] we that [[G3588\
 
 </div></div>
 
-
----
 
 ## **Pastors (I prefer Shepherds)**
 
@@ -453,8 +440,6 @@ Likewise [[G2532\|G2532]] the [[G3588\|G3588]] church [[G1577\|G1577]] that is i
 
 Paul clearly honor their name and the church in their house. Likely shepherding and overseeing (elders function)
 
----
-
 ## **Teachers (Jesus ofc)**
 
 Paul described himself as a teacher.
@@ -519,8 +504,6 @@ And [[G2532\|G2532]] she [[G3778\|G3778]] coming [[G2186\|G2186]] in gave likewi
 </div></div>
 
 
----
-
 ## **Functions vs Offices**
 
 The function is there.  
@@ -531,16 +514,12 @@ Teaching is pervasive but rarely titled.
 
 **Women clearly perform the functions.**
 
----
-
 ## **So can Women be elders?**
 
 Idk.
 
 They seems to perform the functions.  
 But Paul did not mentioned them in Titus.
-
----
 
 ## **Can they be deacons?**
 
@@ -582,8 +561,6 @@ I commend [[G4921\|G4921]] unto you [[G5213\|G5213]] Phebe [[G5402\|G5402]] our 
 
 </div></div>
 
-
----
 ## **Who can[[Prepare the Way#**Who shall carry the call?**\| the Call]]?**
 The call shall come but do you meet the requirement?
 Many be you meet the requirement but are you [[Prepare the Way#**Be of Good Courage**\|of Good Courage?]] 
@@ -629,8 +606,6 @@ Then Jael [[H3278\|H3278]] Heber's [[H2268\|H2268]] wife [[H802\|H802]] took [[H
 
 > **That's the way of God.**
 
----
-
 ## Summary
 
 | Role | Women Mentioned | Supporting Verses |
@@ -642,8 +617,6 @@ Then Jael [[H3278\|H3278]] Heber's [[H2268\|H2268]] wife [[H802\|H802]] took [[H
 | **Teacher** | Priscilla, Older women | Acts 18:26; Titus 2:3 |
 | **Elder** | (Implied function only) | Titus 1:5; 1 Tim 3:2 |
 | **Deacon** | Phoebe | Romans 16:1; 1 Tim 3:8–11 |
-
----
 
 ## **What's the Wisdom?**
 
