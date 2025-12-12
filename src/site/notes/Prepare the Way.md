@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-12T11:14:12.949-08:00"}
+{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-12T11:15:17.194-08:00"}
 ---
 
 ## **What's Prepare the Way?**
@@ -56,7 +56,7 @@ John [[G2491\|G2491]] did [[G1096\|G1096]] baptize [[G907\|G907]] in [[G1722\|G1
 - When the Israelites complained, God sent snakes and causes many to perish. They cried out to Moses who cried out to God. God told Moses to life a snake outside of the Camp. Those who went out and see the snake (in their pain and suffering) were healed. ([[KJV Tagged + Lexicon/Bible 2/04 - Numbers/Numbers 21/Numbers 21#6\|Numbers 21#6]]; [[KJV Tagged + Lexicon/Bible 2/43 - John/John 3/John 3#14\|John 3#14]] likened to how we are saved by putting our faith in Chris)
 - Christ did healed a blind man but he pulled him outside of the camp (add address here)
 - The [[Repentance\|Repentance]] that John preach requires proof before baptism is applied. (1) They left their camp to go to the wilderness and (2) They have to bring a proof of repentance. Much of the church today lack the proof of repentance. Repentance means to **turn away from sin** as much as **turning to God**.
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -68,7 +68,7 @@ And [[G2532\|G2532]] there went out [[G1607\|G1607]] unto [[G4314\|G4314]] him [
 </div></div>
 
 - Here is the result of [[Obidience\|Obidience]]
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -86,7 +86,7 @@ And [[G1161\|G1161]] John [[G2491\|G2491]] was [[G2258\|G2258]] clothed with [[G
 - Locusts are food that are Clean to eat according to the Law of Moses. They represent the overlooked things.
 - Wild Honey are **sweet** the taste yet **bitter** in the stomach. This represent [[the Word of God\|the Word of God]].
 - What does John represent then? Those who are called to prepare the way? Is that not us?
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -97,7 +97,7 @@ And [[G2532\|G2532]] preached, [[G2784\|G2784]] saying, [[G3004\|G3004]] There c
 
 </div></div>
 
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
