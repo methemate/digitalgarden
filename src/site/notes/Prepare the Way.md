@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-12T01:33:50.688-08:00"}
+{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-12T01:42:31.663-08:00"}
 ---
 
 ## **What's Prepare the Way?**
 In days past, a King in victory would announce himself coming prior to going past an area. What people would do is to **lower the mountains** *(places of idols altars)* and **fill up the valley** *(places of idols sacrifice)* to make the road flat. Then they would redo the terrain and make the way straight so that **the King** and **His train** (officials, soldiers, captives, spoils) can go through. It's a victory laps.
-## 📖 **Mentions in Scripture**
-#### Who shall carry the call?
+## **Who shall carry the call?**
 > **Mark 1:1–8** 
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -54,7 +53,7 @@ John [[G2491\|G2491]] did [[G1096\|G1096]] baptize [[G907\|G907]] in [[G1722\|G1
 
 - Why in the wilderness and not in the city? Because sin has created stronghold that makes it
 - God's tabernacle used to dwell with Israel in the beginning and was later moved outside of the camp of Israel after much sin entered their camp.
-- When the Israelites complained, God sent snakes and causes many to perish. They cried out to Moses who cried out to God. God told Moses to life a snake outside of the Camp. Those who went out and see the snake (in their pain and suffering) were healed. (also mentioned in [[KJV Tagged + Lexicon/Bible 2/43 - John/John 3/John 3#14\|John 3#14]] likened to how we are saved by putting our faith in Chris)
+- When the Israelites complained, God sent snakes and causes many to perish. They cried out to Moses who cried out to God. God told Moses to life a snake outside of the Camp. Those who went out and see the snake (in their pain and suffering) were healed. ([[KJV Tagged + Lexicon/Bible 2/04 - Numbers/Numbers 21/Numbers 21#6\|Numbers 21#6]]; [[KJV Tagged + Lexicon/Bible 2/43 - John/John 3/John 3#14\|John 3#14]] likened to how we are saved by putting our faith in Chris)
 - Christ did healed a blind man but he pulled him outside of the camp (add address here)
 - The [[Repentance\|Repentance]] that John preach requires proof before baptism is applied. (1) They left their camp to go to the wilderness and (2) They have to bring a proof of repentance. Much of the church today lack the proof of repentance. Repentance means to **turn away from sin** as much as **turning to God**.
 >
@@ -116,7 +115,7 @@ I [[G1473\|G1473]] indeed [[G3303\|G3303]] have baptized [[G907\|G907]] you [[G5
 
 > *Seek understanding and obey the call. He who is faithful will give you his Grace to see you through.*
 
-## Be of Good Courage
+## **Be of Good Courage**
 > **2 Samuel 10:4–5** – Hanun humiliates David’s servants  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -249,7 +248,7 @@ Be of good courage, [[H2388\|H2388]] and let us play the men [[H2388\|H2388]] fo
 - Think about Abraham men (find the reference). Abraham brought 300 men against 10,000. He fought against multiple kingdom. Mind you these kingdom fought the Giants to get into the land (Find the reference). Yes, the Lord were with them. But would untrained men have the **==courage==** to carry the call?
 - How about David and Goliath? He refused to take the king's armor and choose to take the equipment that he's used to. (likely his shepherd staffs and the slingshot) Is he an untrained kid? No. *This brother fought the lions and bears, fam!!*
 - **YET**, being trained doesn't mean everything. When Gideon called upon Ephraim to fight the Midian and ... (Find the reference), although they were trained with the bow refused the called. ==***Thus, they did not join in the glory of the battle.***== 
-- Notice he said "Let the Lord do that which seemed good to Him" after preparing for war and just before he's about to fight the enemy. We the church often think that we just need to wait and let the Lord take everything back for us. **==Yet, THAT'S NOT GOD"S WAY. WAKE UP==**
+- Notice he said "Let the Lord do that which seemed good to Him" after preparing for war and just before he's about to fight the enemy. We the church often think that we just need to wait and let the Lord take everything back for us. **==Yet, THAT'S NOT GOD'S WAY. WAKE UP==**
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
