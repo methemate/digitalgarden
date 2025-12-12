@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-12T01:42:31.663-08:00"}
+{"dg-publish":true,"permalink":"/prepare-the-way/","created":"2025-12-11T22:08:33.000-08:00","updated":"2025-12-12T11:11:11.411-08:00"}
 ---
 
 ## **What's Prepare the Way?**
 In days past, a King in victory would announce himself coming prior to going past an area. What people would do is to **lower the mountains** *(places of idols altars)* and **fill up the valley** *(places of idols sacrifice)* to make the road flat. Then they would redo the terrain and make the way straight so that **the King** and **His train** (officials, soldiers, captives, spoils) can go through. It's a victory laps.
 ## **Who shall carry the call?**
 > **Mark 1:1–8** 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -28,7 +28,7 @@ As [[G5613\|G5613]] it is written [[G1125\|G1125]] in [[G1722\|G1722]] the [[G35
 </div></div>
 
 - A Word is given
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -40,7 +40,7 @@ The voice [[G5456\|G5456]] of one crying [[G994\|G994]] in [[G1722\|G1722]] the 
 </div></div>
 
 -  we are commanded to [[Prepare the Way#What's Prepare the Way?\|Prepare the Way]]
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
