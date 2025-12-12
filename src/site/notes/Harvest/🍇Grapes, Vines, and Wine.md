@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/harvest/grapes-vines-and-wine/","created":"2025-11-07T11:41:43.000-08:00","updated":"2025-12-11T14:17:41.843-08:00"}
+{"dg-publish":true,"permalink":"/harvest/grapes-vines-and-wine/","created":"2025-11-07T11:41:43.000-08:00","updated":"2025-12-11T22:07:39.700-08:00"}
 ---
 
-Look at this [[Psalms 80\|Psalms 80]]
-https://obsius.site/571u4e6n4j4s1d660e3g
+Look at this in [[Psalms 80\|Psalms 80]]
 ## 📖 **Mentions in Scripture**
 
 #### ⚠️ Causes [[Folly\|Folly]] and Testing
@@ -28,7 +27,6 @@ And he drank [[H8354\|H8354]] of [[H4480\|H4480]] the wine, [[H3196\|H3196]] and
 
 
 </div></div>
-
 
 - The first vineyard ends in _drunkenness and shame_ — showing how blessing misused becomes folly.
     
@@ -258,7 +256,7 @@ So shall thy barns [[H618\|H618]] be filled [[H4390\|H4390]] with plenty, [[H764
 
 ---
 
-#### 💔 Corruption and [[Judgment\|Judgment]]
+#### 💔 Corruption and [[Judgement\|Judgement]]
 ##### The vine put forth Corrupt/ No Fruit
 
 > **Isaiah 5:1–7** – “He looked for grapes, but it brought forth[[ wild grapes\| wild grapes]].”
