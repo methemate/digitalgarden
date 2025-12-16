@@ -561,9 +561,9 @@ I commend [[G4921\|G4921]] unto you [[G5213\|G5213]] Phebe [[G5402\|G5402]] our 
 
 </div></div>
 
-## **Who can[[Prepare the Way#**Who shall carry the call?**\| the Call]]?**
+## **Who can[[Topic/Prepare the Way#**Who shall carry the call?**\| the Call]]?**
 The call shall come but do you meet the requirement?
-Many be you meet the requirement but are you [[Prepare the Way#**Be of Good Courage**\|of Good Courage?]] 
+Many be you meet the requirement but are you [[Topic/Prepare the Way#**Be of Good Courage**\|of Good Courage?]] 
 
 ***Many** are **called** but **few** are **chosen**.*
 

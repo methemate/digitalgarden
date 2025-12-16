@@ -6,4 +6,4 @@ This is the home page. Honestly pretty useless page for now.
 
 I'm using this to document the wisdom I received from reading The Word.
 
-Go read [[Prepare the Way\|Prepare the Way]]
+Go read [[Topic/Prepare the Way\|Prepare the Way]]
