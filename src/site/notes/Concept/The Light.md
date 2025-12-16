@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.791-08:00","updated":"2025-12-16T02:32:33.460-08:00"}
+{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.791-08:00","updated":"2025-12-16T02:39:11.101-08:00"}
 ---
 
 Our God is the **Father of Lights** ([[KJV Tagged + Lexicon/Bible 2/59 - James/James 1/James 1#17\|James 1#17]]).  
 Jesus is **the Light** ([[KJV Tagged + Lexicon/Bible 2/43 - John/John 8/John 8#12\|John 8#12]]).  
 Jesus called us **the light of the world** ([[KJV Tagged + Lexicon/Bible 2/40 - Matthew/Matthew 5/Matthew 5#14\|Matthew 5#14]]).
-### What Does Light Do?
+#### What Does Light Do?
 
 Light **shines into darkness**, and darkness cannot remain.  
 In John, it is written that **the light came into the world**, and **the darkness did not overcome it nor comprehend it** ([[KJV Tagged + Lexicon/Bible 2/43 - John/John 1/John 1#5\|John 1#5]]).  
 (The Greek **κατέλαβεν** (_katélaben_) carries both meanings: _to overpower_ and _to grasp or understand_.)
-### Light From the Beginning to the Kingdom
+#### Light From the Beginning to the Kingdom
 
 At the beginning of creation, God said, **“Let there be light”** ([[KJV Tagged + Lexicon/Bible 2/01 - Genesis/Genesis 1/Genesis 1#3\|Genesis 1#3]]).  
 At the end, when the Kingdom of God is fully revealed, **the glory of God is the light;  the Lamb it's the Lamp; and glory that the kings (us) brought are also a source of light ** ([[KJV Tagged + Lexicon/Bible 2/66 - Revelation/Revelation 21/Revelation 21#23\|Revelation 21#23]]).
 
 Jesus said that **the Son does nothing except what He sees the Father doing** ([[KJV Tagged + Lexicon/Bible 2/43 - John/John 5/John 5#19\|John 5#19]]).  
 What the Father revealed in creation, the Son brought into the world -**light in the midst of darkness**. And in the end, God’s word is fulfilled upon the land as well—**our dwelling place with Him forever**. (Not Heaven btw)
-### The Defeat of Darkness
+#### The Defeat of Darkness
 
 Had the rulers of this age understood God’s plan, **they would not have crucified the Lord of glory** ([[KJV Tagged + Lexicon/Bible 2/46 - 1 Corinthians/1 Corinthians 2/1 Corinthians 2#8\|1 Corinthians 2#8]]).  
 Yet through His death and resurrection, we are made **sons in the Kingdom of God** ([[KJV Tagged + Lexicon/Bible 2/45 - Romans/Romans 8/Romans 8#14\|Romans 8#14]]).
@@ -25,7 +25,7 @@ Yet through His death and resurrection, we are made **sons in the Kingdom of God
 As sons of God, we are called to **do likewise**:
 - ==To **be the light** that shines in dark places==
 - ==To **push back darkness** where it seeks to remain==
-### Our Role
+#### Our Role
 It is **not** God’s design that we sit idle while He alone pushes back darkness.  
 It is His will that **we participate**, walking as "children of light"
 >**Ephesians 5:8** 
