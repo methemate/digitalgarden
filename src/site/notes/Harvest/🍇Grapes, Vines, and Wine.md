@@ -5,7 +5,7 @@
 Look at this in [[Psalms 80\|Psalms 80]]
 ## 📖 **Mentions in Scripture**
 
-#### ⚠️ Causes [[Folly\|Folly]] and Testing
+#### ⚠️ Causes [[Concept/Folly\|Folly]] and Testing
 
 > **Genesis 9:20–21** – Noah planted a vineyard and drank of the wine
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -148,7 +148,7 @@ Woe [[H1945\|H1945]] unto him that giveth his neighbour [[H7453\|H7453]] drink, 
 
 ---
 
-#### 🌾 Sign of [[Blessing\|Blessing]] and [[Abundance\|Abundance]]
+#### 🌾 Sign of [[Blessing\|Blessing]] and [[Concept/Abundance\|Abundance]]
 
 > **Deuteronomy 8:8** – “A land of wheat and barley, vines and fig trees, and pomegranates.”
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
