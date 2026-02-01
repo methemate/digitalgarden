@@ -8,4 +8,4 @@
 
 It is divided into Concepts, and Topic. You use the menu on the top left to navigate. 
 
-Go read [[Prepare the Way\|Prepare the Way]], [[Concept/The Light\|The Light]], [[Faith\|Faith]]
+Go read [[Topic/Prepare the Way\|Prepare the Way]], [[Concept/The Light\|The Light]], [[Concept/Faith\|Faith]]
