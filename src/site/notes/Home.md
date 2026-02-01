@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-12-11T12:43:15.736-08:00","updated":"2025-12-25T13:40:21.850-08:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-12-11T12:43:15.000-08:00","updated":"2025-12-25T13:40:21.000-08:00"}
 ---
 
 >I'm using this to document the wisdom I received from reading The Word.
@@ -8,4 +8,4 @@
 
 It is divided into Concepts, and Topic. You use the menu on the top left to navigate. 
 
-Go read [[Topic/Prepare the Way\|Prepare the Way]], [[Concept/The Light\|The Light]], [[Concept/Faith\|Faith]]
+Go read [[Prepare the Way\|Prepare the Way]], [[Concept/The Light\|The Light]], [[Faith\|Faith]]
