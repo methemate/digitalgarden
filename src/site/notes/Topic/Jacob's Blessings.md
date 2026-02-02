@@ -9,13 +9,13 @@
 
 
 
+"Simeon and Levi are brothers;  Their swords are implements of violence.   
+
+###### 6 
+May my soul not enter into their council;  May my glory not be united with their assembly;  For in their anger they killed men,  And in their self-will they lamed oxen.   
+
 ###### 7 
 Cursed be their anger, for it is fierce;  And their wrath, for it is cruel.  I will scatter them in Jacob,  And disperse them among Israel.  
-
-###### 8 
-"As for you, Judah, your brothers shall praise you;  Your hand shall be on the neck of your enemies;  Your father's sons shall bow down to you.   
-
-###### 9 
 
 </div></div>
   
@@ -25,13 +25,13 @@ Cursed be their anger, for it is fierce;  And their wrath, for it is cruel.  I
 
 
 
+
+###### 8 
+"As for you, Judah, your brothers shall praise you;  Your hand shall be on the neck of your enemies;  Your father's sons shall bow down to you.   
+
+###### 9 
 Judah is a lion's cub;  From the prey, my son, you have gone up.  He crouches, he lies down as a lion,  And as a lion, who dares to stir him up?   
 
-###### 10 
-The scepter will not depart from Judah,  Nor the ruler's staff from between his feet,  Until Shiloh comes,  And to him _shall be_ the obedience of the peoples.   
-
-###### 11 
-He ties _his_ foal to the vine,  And his donkey's colt to the choice vine;  He washes his garments in wine,  And his robes in the blood of grapes.   
 
 </div></div>
 
@@ -52,10 +52,10 @@ He ties _his_ foal to the vine,  And his donkey's colt to the choice vine;  He
 
 
 
-"Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon,  
 
-###### 4 
-the land which the LORD conquered before the congregation of Israel, is a land for livestock, and your servants have livestock."  
+###### 2 
+the sons of Gad and the sons of Reuben came and spoke to Moses, Eleazar the priest, and to the leaders of the congregation, saying,  
+
 
 </div></div>
 
@@ -63,11 +63,11 @@ the land which the LORD conquered before the congregation of Israel, is a land f
 
 
 
+###### 7 
+And why are you discouraging the sons of Israel from crossing over into the land which the LORD has given them?  
 
-###### 9 
-For when they went up to the Valley of Eshcol and saw the land, they discouraged the sons of Israel so that they did not go into the land which the LORD had given them.  
-
-###### 10 
+###### 8 
+This is what your fathers did when I sent them from Kadesh-barnea to see the land.  
 
 </div></div>
 
@@ -97,6 +97,19 @@ For when they went up to the Valley of Eshcol and saw the land, they discouraged
 
 
 
+###### 10 
+The scepter will not depart from Judah,  Nor the ruler's staff from between his feet,  Until Shiloh comes,  And to him _shall be_ the obedience of the peoples.   
+
+###### 11 
+He ties _his_ foal to the vine,  And his donkey's colt to the choice vine;  He washes his garments in wine,  And his robes in the blood of grapes.   
+
+
+</div></div>
+  
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 ###### 12 
 His eyes are dull from wine,  And his teeth white from milk.  
@@ -104,6 +117,9 @@ His eyes are dull from wine,  And his teeth white from milk.
 ###### 13 
 "Zebulun will reside at the seashore;  And he _shall be_ a harbor for ships,  And his flank _shall be_ toward Sidon.  
 
+###### 14 
+"Issachar is a strong donkey,  Lying down between the sheepfolds.   
+
 </div></div>
   
 
@@ -111,30 +127,14 @@ His eyes are dull from wine,  And his teeth white from milk.
 
 
 
-
-###### 14 
-"Issachar is a strong donkey,  Lying down between the sheepfolds.   
 
 ###### 15 
 When he saw that a resting place was good  And that the land was pleasant,  He bowed his shoulder to carry _burdens_,  And became a slave at forced labor.  
 
 ###### 16 
-
-</div></div>
-  
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 "Dan shall judge his people,  As one of the tribes of Israel.   
 
 ###### 17 
-Dan shall be a serpent in the way,  A horned viper in the path,  That bites the horse's heels,  So that its rider falls backward.   
-
-###### 18 
-For Your salvation I wait, LORD.  
-
 
 </div></div>
 
@@ -158,13 +158,29 @@ For Your salvation I wait, LORD.
 
 
 
+Dan shall be a serpent in the way,  A horned viper in the path,  That bites the horse's heels,  So that its rider falls backward.   
+
+###### 18 
+For Your salvation I wait, LORD.  
+
 ###### 19 
 "As for Gad, a band of raiders shall attack him,  But he will attack _at_ their heels.  
+
+</div></div>
+  
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 
 ###### 20 
 "As for Asher, his food shall be rich,  And he will yield royal delicacies.  
 
 ###### 21 
+"Naphtali is a doe let loose;  He utters beautiful words.  
+
+###### 22 
 
 </div></div>
   
@@ -173,14 +189,14 @@ For Your salvation I wait, LORD.
 
 
 
-"Naphtali is a doe let loose;  He utters beautiful words.  
-
-###### 22 
 "Joseph is a fruitful branch,  A fruitful branch by a spring;  _Its_ branches hang over a wall.   
 
 ###### 23 
 The archers provoked him,  And shot _at him_ and were hostile toward him;   
 
+###### 24 
+But his bow remained firm,  And his arms were agile,  From the hands of the Mighty One of Jacob  (From there is the Shepherd, the Stone of Israel),   
+
 
 </div></div>
   
@@ -188,9 +204,6 @@ The archers provoked him,  And shot _at him_ and were hostile toward him;
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
-
-###### 24 
-But his bow remained firm,  And his arms were agile,  From the hands of the Mighty One of Jacob  (From there is the Shepherd, the Stone of Israel),   
 
 ###### 25 
 From the God of your father who helps you,  And by the Almighty who blesses you  _With_ blessings of heaven above,  Blessings of the deep that lies beneath,  Blessings of the breasts and of the womb.   
@@ -198,6 +211,9 @@ From the God of your father who helps you,  And by the Almighty who blesses you
 ###### 26 
 The blessings of your father  Have surpassed the blessings of my ancestors  Up to the furthest boundary of the everlasting hills;  May they be on the head of Joseph,  And on the top of the head of the one distinguished among his brothers.  
 
+###### 27 
+"Benjamin is a ravenous wolf;  In the morning he devours the prey,  And in the evening he divides the spoils."  
+
 </div></div>
   
 
@@ -205,28 +221,12 @@ The blessings of your father  Have surpassed the blessings of my ancestors  Up
 
 
 
-
-###### 27 
-"Benjamin is a ravenous wolf;  In the morning he devours the prey,  And in the evening he divides the spoils."  
 
 ###### 28 
 All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them. He blessed them, every one with the blessing appropriate to him.Jacob Dies  
 
 ###### 29 
-
-</div></div>
-  
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 Then he commanded them and said to them, "I am about to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,  
-
-###### 30 
-in the cave that is in the field of Machpelah, which is opposite Mamre, in the land of Canaan, which Abraham bought along with the field from Ephron the Hittite as a burial site.  
-
-###### 31 
 
 </div></div>
 
@@ -240,13 +240,13 @@ in the cave that is in the field of Machpelah, which is opposite Mamre, in the l
 
 
 
+
+###### 30 
+in the cave that is in the field of Machpelah, which is opposite Mamre, in the land of Canaan, which Abraham bought along with the field from Ephron the Hittite as a burial site.  
+
+###### 31 
 There they buried Abraham and his wife Sarah, there they buried Isaac and his wife Rebekah, and there I buried Leah--  
 
-###### 32 
-the field and the cave that is in it, purchased from the sons of Heth."  
-
-###### 33 
-When Jacob finished commanding his sons, he drew his feet into the bed and breathed his last, and was gathered to his people.AboutHelpOur NetworkSocialPreferences By submitting your email address, you understand that you will receive email communications from Bible Gateway, operated by HarperCollins Christian Publishing, 501 Nelson Pl, Nashville, TN 37214 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway&rsquo;s emails at any time. If you have any questions, please review our [Privacy Policy] or email us at [privacy@biblegateway.com]. Preferences
 
 </div></div>
 
@@ -260,16 +260,18 @@ When Jacob finished commanding his sons, he drew his feet into the bed and breat
 
 
 
+###### 32 
+the field and the cave that is in it, purchased from the sons of Heth."  
 
-***
-
-[[Gen 48|← Genesis 48]] | [[Genesis]] | [[Gen 50|Genesis 50 →]]
+###### 33 
+When Jacob finished commanding his sons, he drew his feet into the bed and breathed his last, and was gathered to his people.
 
 
 </div></div>
   
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
@@ -427,15 +429,28 @@ When Jacob finished commanding his sons, he drew his feet into the bed and breat
 
 
 
+###### 18 
+And Joseph said to his father, "Not so, my father, for this one is the firstborn. Place your right hand on his head."  
 
-###### 20 
-So he blessed them that day, saying, "By you Israel will pronounce blessing, saying,  'May God make you like Ephraim and Manasseh!'" And _so_ he put Ephraim before Manasseh.  
-
+###### 19 
 
 </div></div>
   
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+But his father refused and said, "I know, my son, I know; he also will become a people and he also will be great. However, his younger brother shall be greater than he, and his descendants shall become a multitude of nations."  
+
+###### 20 
+So he blessed them that day, saying, "By you Israel will pronounce blessing, saying,  'May God make you like Ephraim and Manasseh!'" And _so_ he put Ephraim before Manasseh.  
+
+</div></div>
+  
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
@@ -443,25 +458,14 @@ So he blessed them that day, saying, "By you Israel will pronounce blessing, sa
 Then Israel said to Joseph, "Behold, I am about to die, but God will be with you, and bring you back to the land of your fathers.  
 
 ###### 22 
-
-</div></div>
-  
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-And I give you one portion more than your brothers, which I took from the hand of the Amorite with my sword and my bow."AboutHelpOur NetworkSocialPreferences By submitting your email address, you understand that you will receive email communications from Bible Gateway, operated by HarperCollins Christian Publishing, 501 Nelson Pl, Nashville, TN 37214 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway&rsquo;s emails at any time. If you have any questions, please review our [Privacy Policy] or email us at [privacy@biblegateway.com]. Preferences
-
-***
-
-[[Gen 47|← Genesis 47]] | [[Genesis]] | [[Gen 49|Genesis 49 →]]
+And I give you one portion more than your brothers, which I took from the hand of the Amorite with my sword and my bow."
 
 
 </div></div>
   
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
@@ -517,21 +521,9 @@ And I give you one portion more than your brothers, which I took from the hand o
 
 
 
-Then Jacob said to Joseph, "God Almighty appeared to me at Luz in the land of Canaan and blessed me,  
 
-###### 4 
-and He said to me, 'Behold, I will make you fruitful and numerous, and I will make you a multitude of peoples, and will give this land to your descendants after you as an everlasting possession.'  
-
-</div></div>
-  
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-###### 9 
-And Joseph said to his father, "They are my sons, whom God has given me here." So he said, "Bring them to me, please, so that I may bless them."  
+###### 2 
+When it was told to Jacob, "Behold, your son Joseph has come to you," Israel collected his strength and sat up in the bed.  
 
 
 </div></div>
@@ -541,10 +533,10 @@ And Joseph said to his father, "They are my sons, whom God has given me here." S
 
 
 
-But Israel reached out his right hand and placed it on the head of Ephraim, who was the younger, and his left hand on Manasseh's head, crossing his hands, although Manasseh was the firstborn.  
+###### 7 
+Now as for me, when I came from Paddan, Rachel died, to my sorrow, in the land of Canaan on the journey, when there was still some distance to go to Ephrath. I buried her there on the way to Ephrath (that is, Bethlehem)."  
 
-###### 15 
-And he blessed Joseph, and said, "The God before whom my fathers Abraham and Isaac walked,  The God who has been my shepherd all my life to this day,   
+###### 8 
 
 </div></div>
   
@@ -553,22 +545,34 @@ And he blessed Joseph, and said, "The God before whom my fathers Abraham and Is
 
 
 
+
+###### 13 
+And Joseph took them both, Ephraim with his right hand toward Israel's left, and Manasseh with his left hand toward Israel's right, and brought them close to him.  
+
+
+</div></div>
+  
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### 18 
+And Joseph said to his father, "Not so, my father, for this one is the firstborn. Place your right hand on his head."  
+
+###### 19 
+
+</div></div>
+  
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+But his father refused and said, "I know, my son, I know; he also will become a people and he also will be great. However, his younger brother shall be greater than he, and his descendants shall become a multitude of nations."  
 
 ###### 20 
 So he blessed them that day, saying, "By you Israel will pronounce blessing, saying,  'May God make you like Ephraim and Manasseh!'" And _so_ he put Ephraim before Manasseh.  
-
-
-</div></div>
-  
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### 21 
-Then Israel said to Joseph, "Behold, I am about to die, but God will be with you, and bring you back to the land of your fathers.  
-
-###### 22 
 
 </div></div>
   

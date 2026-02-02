@@ -67,10 +67,10 @@ Praying with uncovered head at the time was a way to show disobedient to the cul
 
 
 
-###### 9 
-for indeed man was not created for the woman's sake, but woman for the man's sake.  
+For a man should not have his head covered, since he is the image and glory of God; but the woman is the glory of man.  
 
-###### 10 
+###### 8 
+For man does not originate from woman, but woman from man;  
 
 </div></div>
 
@@ -88,10 +88,10 @@ In Acts 19:23–41, silversmiths rioted over Paul’s preaching because it threa
 
 
 
-###### 34 
-But when they recognized that he was a Jew, a single outcry arose from them all as they shouted for about two hours, "Great is Artemis of the Ephesians!"  
+So then, some were shouting one thing and some another, for the assembly was in confusion and the majority did not know for what reason they had come together.  
 
-###### 35 
+###### 33 
+Some of the crowd concluded _it was_ Alexander, since the Jews had put him forward; and having motioned with his hand, Alexander was intending to make a defense to the assembly.  
 
 </div></div>
   
@@ -110,6 +110,9 @@ Because of the domination over men teachings, in Timothy Paul wrote “A woman m
 > **1 Timothy 2:11–12**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+
+
+But women will be preserved through childbirth--if they continue in faith, love, and sanctity, with moderation.
 
 
 
@@ -154,10 +157,10 @@ That’s likely why Paul in [[KJV Tagged + Lexicon/Bible 2/56 - Titus/Titus 2\|T
 
 
 
-Likewise urge the young men to be sensible;  
 
-###### 7 
-in all things show yourself _to be_ an example of good deeds, _with_ purity in doctrine, dignified,  
+###### 5 
+_to be_ sensible, pure, workers at home, kind, being subject to their own husbands, so that the word of God will not be dishonored.  
+
 
 </div></div>
   
@@ -166,11 +169,11 @@ in all things show yourself _to be_ an example of good deeds, _with_ purity in d
 
 
 
-###### 9 
-_Urge_ slaves to be subject to their own masters in everything, to be pleasing, not argumentative,  
+in all things show yourself _to be_ an example of good deeds, _with_ purity in doctrine, dignified,  
 
-###### 10 
-not stealing, but showing all good faith so that they will adorn the doctrine of God our Savior in every respect.  
+###### 8 
+sound _in_ speech which is beyond reproach, so that the opponent will be put to shame, having nothing bad to say about us.  
+
 
 </div></div>
 
@@ -187,10 +190,10 @@ Junia was an apostle.
 
 
 
-###### 11 
-Greet Herodion, my kinsman. Greet those of the _household_ of Narcissus, who are in the Lord.  
+###### 10 
+Greet Apelles, the approved in Christ. Greet those who are of the _household_ of Aristobulus.  
 
-###### 12 
+###### 11 
 
 </div></div>
 
@@ -204,10 +207,10 @@ Women were already praying and prophesying.
 
 
 
-###### 9 
-for indeed man was not created for the woman's sake, but woman for the man's sake.  
+For a man should not have his head covered, since he is the image and glory of God; but the woman is the glory of man.  
 
-###### 10 
+###### 8 
+For man does not originate from woman, but woman from man;  
 
 </div></div>
 
@@ -219,10 +222,10 @@ He [Philip the evangelist] had four unmarried daughters, who prophesied.
 
 
 
-And since he would not be persuaded, we became quiet, remarking, "The will of the Lord be done!"Paul in Jerusalem  
 
-###### 15 
-After these days we got ready and started on our way up to Jerusalem.  
+###### 13 
+Then Paul replied, "What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but even to die in Jerusalem for the name of the Lord Jesus."  
+
 
 </div></div>
 
@@ -234,10 +237,10 @@ Also are plenty of named prophetess in the OT.
 
 
 
+###### 6 
+Now she sent _word_ and summoned Barak the son of Abinoam from Kedesh-naphtali, and said to him, "The LORD, the God of Israel, has indeed commanded, 'Go and march to Mount Tabor, and take with you ten thousand men from the sons of Naphtali and from the sons of Zebulun.  
 
-###### 8 
-Then Barak said to her, "If you will go with me, then I will go; but if you will not go with me, I will not go."  
-
+###### 7 
 
 </div></div>
 
@@ -245,6 +248,9 @@ Then Barak said to her, "If you will go with me, then I will go; but if you will
 > **2 Kings 22:14–15 - Hilkiah**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+
+
+Therefore, behold, I am going to gather you to your fathers, and you will be gathered to your grave in peace, and your eyes will not look at all the devastation that I am going to bring on this place.'" So they brought back word to the king.
 
 
 
@@ -291,10 +297,10 @@ The Samaritans at the well spreads the Gospel. It’s the duties of all believer
 
 
 
-So when the Samaritans came to Jesus, they were asking Him to stay with them; and He stayed there two days.  
 
-###### 41 
-Many more believed because of His word;  
+###### 39 
+Now from that city many of the Samaritans believed in Him because of the word of the woman who testified, "He told me all the things that I have done."  
+
 
 </div></div>
   
@@ -303,10 +309,10 @@ Many more believed because of His word;
 
 
 
+###### 40 
+So when the Samaritans came to Jesus, they were asking Him to stay with them; and He stayed there two days.  
 
-###### 42 
-and they were saying to the woman, "_It is_ no longer because of what you said _that_ we believe, for we have heard for ourselves and know that this One truly is the Savior of the world."  
-
+###### 41 
 
 </div></div>
 
@@ -318,10 +324,10 @@ The function is there. ==But only **ONE evangelist** was mentioned by [[Topic/Wo
 
 
 
-###### 13 
-Then Paul replied, "What are you doing, weeping and breaking my heart? For I am ready not only to be bound, but even to die in Jerusalem for the name of the Lord Jesus."  
+And he came to us and took Paul's belt and bound his own feet and hands, and said, "This is what the Holy Spirit says: 'In this way the Jews in Jerusalem will bind the man who owns this belt and hand him over to the Gentiles.'"  
 
-###### 14 
+###### 12 
+When we had heard this, we as well as the local residents _began_ begging him not to go up to Jerusalem.  
 
 </div></div>
 
@@ -338,8 +344,8 @@ For a time, Peter have performed the function to “feed my sheep”. So he was 
 
 
 
-###### 23 
-Therefore this account went out among the brothers, that that disciple would not die; yet Jesus did not say to him that he would not die, but _only_, **"If I want him to remain until I come, what _is that_ to you?"**  
+###### 22 
+Jesus *said to him, **"If I want him to remain until I come, what _is that_ to you? You follow Me!"**  
 
 
 </div></div>
@@ -349,11 +355,11 @@ Therefore this account went out among the brothers, that that disciple would not
 
 
 
-But there are also many other things which Jesus did, which, if they were written in detail, I expect that even the world itself would not contain the books that would be written.AboutHelpOur NetworkSocialPreferences By submitting your email address, you understand that you will receive email communications from Bible Gateway, operated by HarperCollins Christian Publishing, 501 Nelson Pl, Nashville, TN 37214 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway&rsquo;s emails at any time. If you have any questions, please review our [Privacy Policy] or email us at [privacy@biblegateway.com]. Preferences
+This is the disciple who is testifying about these things and wrote these things, and we know that his testimony is true.  
 
-***
+###### 25 
+But there are also many other things which Jesus did, which, if they were written in detail, I expect that even the world itself would not contain the books that would be written.
 
-[[John 20|← John 20]] | [[John]]
 
 </div></div>
 
@@ -363,10 +369,10 @@ But there are also many other things which Jesus did, which, if they were writte
 
 
 
-###### 4 
-And when the Chief Shepherd appears, you will receive the unfading crown of glory.  
+###### 3 
+nor yet as domineering over those assigned to your care, but by proving to be examples to the flock.  
 
-###### 5 
+###### 4 
 
 </div></div>
 
@@ -398,10 +404,10 @@ Chloe’s in [[KJV Tagged + Lexicon/Bible 2/46 - 1 Corinthians/1 Corinthians 1\|
 
 
 
-For Christ did not send me to baptize, but to preach the gospel, not with cleverness of speech, so that the cross of Christ would not be made of no effect.The Wisdom of God  
+But I did baptize the household of Stephanas also; beyond that, I do not know if I baptized anyone else.  
 
-###### 18 
-For the word of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.  
+###### 17 
+For Christ did not send me to baptize, but to preach the gospel, not with cleverness of speech, so that the cross of Christ would not be made of no effect.The Wisdom of God  
 
 </div></div>
 
@@ -414,8 +420,8 @@ For the word of the cross is foolishness to those who are perishing, but to us w
 
 
 
-###### 6 
-Greet Mary, who has worked hard for you.  
+###### 5 
+also _greet_ the church that is in their house. Greet Epaenetus, my beloved, who is the first convert to Christ from Asia.  
 
 
 </div></div>
@@ -425,10 +431,10 @@ Greet Mary, who has worked hard for you.
 
 
 
-Greet Ampliatus, my beloved in the Lord.  
+Greet Andronicus and Junia, my kinsfolk and my fellow prisoners, who are outstanding in the view of the apostles, who also were in Christ before me.  
 
-###### 9 
-Greet Urbanus, our fellow worker in Christ, and Stachys my beloved.  
+###### 8 
+Greet Ampliatus, my beloved in the Lord.  
 
 </div></div>
 
@@ -444,11 +450,11 @@ Paul described himself as a teacher.
 
 
 
-A woman must quietly receive instruction with entire submissiveness.  
 
-###### 12 
-But I do not allow a woman to teach or to exercise authority over a man, but to remain quiet.  
+###### 10 
+but rather by means of good works, as is proper for women making a claim to godliness.  
 
+###### 11 
 
 </div></div>
 
@@ -523,10 +529,10 @@ Phoebe is a deacons mentioned in Romans 16.
 
 
 
-###### 13 
-For those who have served well as deacons obtain for themselves a high standing and great confidence in the faith that is in Christ Jesus.  
+Women _must_ likewise _be_ dignified, not malicious gossips, but temperate, faithful in all things.  
 
-###### 14 
+###### 12 
+Deacons must be husbands of one wife, _and_ good managers of _their_ children and their own households.  
 
 </div></div>
   
@@ -535,10 +541,10 @@ For those who have served well as deacons obtain for themselves a high standing 
 
 
 
-***
+but in case I am delayed, _I write_ so that you will know how one should act in the household of God, which is the church of the living God, the pillar and support of the truth.  
 
-[[1 Tim 2|← 1 Timothy 2]] | [[1 Timothy]] | [[1 Tim 4|1 Timothy 4 →]]
-
+###### 16 
+Beyond question, great is the mystery of godliness: He who was revealed in the flesh,  Was vindicated in the Spirit,  Seen by angels,  Proclaimed among the nations,  Believed on in the world,  Taken up in glory.
 
 </div></div>
 
@@ -549,8 +555,8 @@ For those who have served well as deacons obtain for themselves a high standing 
 
 
 
-###### 3 
-Greet Prisca and Aquila, my fellow workers in Christ Jesus,  
+###### 2 
+that you receive her in the Lord in a manner worthy of the saints, and that you help her in whatever matter she may have need of you; for she herself has also been a helper of many, and of myself as well.  
 
 
 </div></div>
@@ -568,10 +574,10 @@ God used Deborah to deliver the enemy into the hand of **Barak**. But he refused
 
 
 
-Barak summoned Zebulun and Naphtali to Kedesh, and ten thousand men went up with him; Deborah also went up with him.  
 
-###### 11 
-Now Heber the Kenite had separated himself from the Kenites, from the sons of Hobab the father-in-law of Moses, and had pitched his tent as far away as the oak in Zaanannim, which is near Kedesh.  
+###### 9 
+She said, "I will certainly go with you; however, the fame shall not be yours on the journey that you are about to take, for the LORD will sell Sisera into the hand of a woman." Then Deborah got up and went with Barak to Kedesh.  
+
 
 </div></div>
   
@@ -580,10 +586,10 @@ Now Heber the Kenite had separated himself from the Kenites, from the sons of Ho
 
 
 
-Then Deborah said to Barak, "Arise! For this is the day on which the LORD has handed Sisera over to you; behold, the LORD has gone out before you." So Barak went down from Mount Tabor with ten thousand men following him.  
 
-###### 15 
-And the LORD routed Sisera and all _his_ chariots and all _his_ army with the edge of the sword before Barak; and Sisera got down from _his_ chariot and fled on foot.  
+###### 13 
+Sisera summoned all his chariots, nine hundred iron chariots, and all the people who _were_ with him, from Harosheth-hagoyim to the river Kishon.  
+
 
 </div></div>
 

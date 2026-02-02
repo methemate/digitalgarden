@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-01-05T18:16:00.000-08:00"}
+{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-02-01T16:16:17.800-08:00"}
 ---
 
 Our God is the **Father of Lights** ([[KJV Tagged + Lexicon/Bible 2/59 - James/James 1#17\|James 1#17]]).  
@@ -32,10 +32,10 @@ It is His will that **we participate**, walking as "children of light"
 
 
 
-But all things become visible when they are exposed by the light, for everything that becomes visible is light.  
 
-###### 14 
-For this reason it says, "Awake, sleeper,  And arise from the dead,  And Christ will shine on you."  
+###### 12 
+for it is disgraceful even to speak of the things which are done by them in secret.  
+
 
 </div></div>
 
@@ -52,10 +52,10 @@ This authority is exercised through **obedience and overcoming temptation** ([[K
 
 
 
-God called the light "day," and the darkness He called "night." And there was evening and there was morning, one day.  
+God saw that the light was good; and God separated the light from the darkness.  
 
-###### 6 
-Then God said, "Let there be an expanse in the midst of the waters, and let it separate the waters from the waters."  
+###### 5 
+God called the light "day," and the darkness He called "night." And there was evening and there was morning, one day.  
 
 </div></div>
 
@@ -63,11 +63,11 @@ Then God said, "Let there be an expanse in the midst of the waters, and let it s
 
 
 
+###### 7 
+God made the expanse, and separated the waters that were below the expanse from the waters that were above the expanse; and it was so.  
+
 ###### 8 
 God called the expanse "heaven." And there was evening and there was morning, a second day.  
-
-###### 9 
-Then God said, "Let the waters below the heavens be gathered into one place, and let the dry land appear"; and it was so.  
 
 </div></div>
 
@@ -78,10 +78,10 @@ Then God said, "Let the waters below the heavens be gathered into one place, and
 
 
 
-###### 21 
-And God created the great sea creatures and every living creature that moves, with which the waters swarmed, according to their kind, and every winged bird according to its kind; and God saw that it was good.  
+###### 20 
+Then God said, "Let the waters teem with swarms of living creatures, and let birds fly above the earth in the open expanse of the heavens."  
 
-###### 22 
+###### 21 
 
 </div></div>
 
@@ -89,10 +89,10 @@ And God created the great sea creatures and every living creature that moves, wi
 
 
 
-Then God said, "Let Us make mankind in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the livestock and over all the earth, and over every crawling thing that crawls on the earth."  
+God made the animals of the earth according to their kind, and the livestock according to their kind, and everything that crawls on the ground according to its kind; and God saw that it was good.  
 
-###### 27 
-So God created man in His own image, in the image of God He created him; male and female He created them.  
+###### 26 
+Then God said, "Let Us make mankind in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the livestock and over all the earth, and over every crawling thing that crawls on the earth."  
 
 </div></div>
 
@@ -103,9 +103,6 @@ So God created man in His own image, in the image of God He created him; male an
 
 
 
-###### 21 
-And the LORD was going before them in a pillar of cloud by day to lead them on the way, and in a pillar of fire by night to give them light, so that they might travel by day and by night. 
- 
 
 
 </div></div>
@@ -114,8 +111,7 @@ And the LORD was going before them in a pillar of cloud by day to lead them on t
 
 
 
-###### 22 
-He did not take away the pillar of cloud by day, nor the pillar of fire by night, from the presence of the people.
+
 
 </div></div>
 
@@ -126,9 +122,6 @@ He did not take away the pillar of cloud by day, nor the pillar of fire by night
 
 
 
-###### 31 
-"Then you shall make a lampstand of pure gold. The lampstand, its base and its shaft, are to be made of hammered work; its cups, its bulbs, and its flowers shall be _of one piece_ with it. 
- 
 
 
 </div></div>
@@ -137,8 +130,6 @@ He did not take away the pillar of cloud by day, nor the pillar of fire by night
 
 
 
-###### 40 
-See that you make _them_ by the pattern for them, which was shown to you on the mountain.
 
 
 </div></div>
@@ -150,10 +141,10 @@ See that you make _them_ by the pattern for them, which was shown to you on the 
 
 
 
+###### 3 
+Outside the veil of the testimony in the tent of meeting, Aaron shall keep it in order from evening to morning before the LORD continually; _it shall be_ a permanent statute throughout your generations.  
 
-###### 5 
-"Then you shall take fine flour and bake twelve cakes with it; two-tenths _of an ephah_ shall be _in_ each cake.  
-
+###### 4 
 
 </div></div>
 
@@ -161,11 +152,11 @@ See that you make _them_ by the pattern for them, which was shown to you on the 
 
 
 
-You shall put pure frankincense on each row so that it may be a memorial portion for the bread, an offering by fire to the LORD.  
 
-###### 8 
-Every Sabbath day he shall set it in order before the LORD continually; it is an everlasting covenant for the sons of Israel.  
+###### 6 
+And you shall set them _in_ two rows, six _to_ a row, on the pure _gold_ table before the LORD.  
 
+###### 7 
 
 </div></div>
 
@@ -195,10 +186,10 @@ Every Sabbath day he shall set it in order before the LORD continually; it is an
 
 
 
-There you will serve gods, the work of human hands, wood and stone, which neither see nor hear, nor eat nor smell _anything_.  
 
-###### 29 
-But from there you will seek the LORD your God, and you will find _Him_ if you search for Him with all your heart and all your soul.  
+###### 27 
+The LORD will scatter you among the peoples, and you will be left few in number among the nations where the LORD drives you.  
+
 
 </div></div>
 
@@ -209,13 +200,13 @@ But from there you will seek the LORD your God, and you will find _Him_ if you s
 
 
 
+###### 17 
+And it was told to Joshua, saying, "The five kings have been found hidden in the cave at Makkedah."  
+
+###### 18 
+So Joshua said, "Roll large stones against the mouth of the cave, and post men by it to guard them,  
 
 ###### 19 
-but do not stay _there_ yourselves; pursue your enemies and attack them from behind. Do not allow them to enter their cities, for the LORD your God has handed them over to you."  
-
-###### 20 
-It came about when Joshua and the sons of Israel had finished striking them down in a very great defeat, until they were destroyed, and the survivors of them _who_ escaped had entered the fortified cities,  
-
 
 </div></div>
 
@@ -223,12 +214,12 @@ It came about when Joshua and the sons of Israel had finished striking them down
 
 
 
+but do not stay _there_ yourselves; pursue your enemies and attack them from behind. Do not allow them to enter their cities, for the LORD your God has handed them over to you."  
+
+###### 20 
+It came about when Joshua and the sons of Israel had finished striking them down in a very great defeat, until they were destroyed, and the survivors of them _who_ escaped had entered the fortified cities,  
+
 ###### 21 
-that all the people returned to the camp, to Joshua at Makkedah in peace. No one uttered a word against any of the sons of Israel.  
-
-###### 22 
-Then Joshua said, "Open the mouth of the cave and bring these five kings out to me from the cave."  
-
 
 </div></div>
 
@@ -239,14 +230,14 @@ Then Joshua said, "Open the mouth of the cave and bring these five kings out to 
 
 
 
+
+###### 7 
+Instead, the man _who_ touches them  Must be armed with iron and the shaft of a spear,  And they will be completely burned with fire in _their_ place."David's Mighty Men  
+
+###### 8 
 These are the names of the mighty men whom David had: Josheb-basshebeth, a Tahchemonite, chief of the captains; he was _called_ Adino the Eznite because of eight hundred who were killed _by him_ at one time.  
 
 ###### 9 
-And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David when they defied the Philistines who were gathered there to battle and the men of Israel had withdrawn.  
-
-###### 10 
-He rose up and struck the Philistines until his hand was weary and it clung to the sword, and the LORD brought about a great victory that day; and the people returned after him only to plunder _the dead_.  
-
 
 </div></div>
 
@@ -254,14 +245,14 @@ He rose up and struck the Philistines until his hand was weary and it clung to t
 
 
 
+And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David when they defied the Philistines who were gathered there to battle and the men of Israel had withdrawn.  
+
+###### 10 
+He rose up and struck the Philistines until his hand was weary and it clung to the sword, and the LORD brought about a great victory that day; and the people returned after him only to plunder _the dead_.  
+
 ###### 11 
 Now after him was Shammah the son of Agee, a Hararite. And the Philistines were gathered into an army where there was a plot of land full of lentils, and the people fled from the Philistines.  
 
-###### 12 
-But he took his stand in the midst of the plot, defended it, and struck the Philistines; and the LORD brought about a great victory.  
-
-###### 13 
-Then three of the thirty chief men went down and came to David at harvest time to the cave of Adullam, while the army of the Philistines was camping in the Valley of Rephaim.  
 
 </div></div>
 
@@ -272,12 +263,12 @@ Then three of the thirty chief men went down and came to David at harvest time t
 
 
 
+Which I have reserved for a time of distress,  For a day of war and battle?   
+
+###### 24 
+Where is the way that the light is divided,  _And_ the east wind scattered on the earth?  
+
 ###### 25 
-"Who has split _open_ a channel for the flood,  And a way for the thunderbolt,   
-
-###### 26 
-To bring rain on a land without people,  _On_ a desert without a person in it,   
-
 
 </div></div>
 
@@ -285,18 +276,31 @@ To bring rain on a land without people,  _On_ a desert without a person in it,
 
 
 
+From whose womb has come the ice?  And the frost of heaven, who has given it birth?   
+
+###### 30 
+Water becomes hard like stone,  And the surface of the deep is imprisoned.  
+
 ###### 31 
-"Can you tie up the chains of the Pleiades,  Or untie the cords of Orion?   
-
-###### 32 
-Can you bring out a constellation in its season,  And guide the Bear with her satellites?   
-
 
 </div></div>
 
 
 > **Psalm 19:1–6** – The sun’s course declared  
-> ![[psalm 19#1\|psalm 19#1]]![[psalm 19#6\|psalm 19#6]]
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+###### 2 
+Day to day pours forth speech,  And night to night reveals knowledge.   
+
+###### 3 
+There is no speech, nor are there words;  Their voice is not heard.   
+
+</div></div>
+![[psalm 19#6\|psalm 19#6]]
 
 > **Psalm 27:1** – “The LORD is my light and my salvation”  
 > ![[psalm 27#1\|psalm 27#1]]
@@ -335,14 +339,14 @@ Can you bring out a constellation in its season,  And guide the Bear with her s
 
 
 
+You will multiply the nation,  You will increase their joy;  They will rejoice in Your presence  As with the joy of harvest,  As _people_ rejoice when they divide the spoils.   
+
+###### 4 
+For You will break the yoke of their burden and the staff on their shoulders,  The rod of their oppressor, as at the battle of Midian.   
+
 ###### 5 
 For every boot of the marching warrior in the roar _of battle_,  And cloak rolled in blood, will be for burning, fuel for the fire.   
 
-###### 6 
-For a Child will be born to us, a Son will be given to us;  And the government will rest on His shoulders;  And His name will be called Wonderful Counselor, Mighty God,  Eternal Father, Prince of Peace.   
-
-###### 7 
-There will be no end to the increase of _His_ government or of peace  On the throne of David and over his kingdom,  To establish it and to uphold it with justice and righteousness  From then on and forevermore.  The zeal of the LORD of armies will accomplish this.God's Anger with Israel's Arrogance  
 
 </div></div>
 
@@ -353,14 +357,14 @@ There will be no end to the increase of _His_ government or of peace  On the th
 
 
 
+###### 14 
+"I have kept silent for a long time,  I have kept still and restrained Myself.  _Now_ like a woman in labor I will groan,  I will both gasp and pant.   
+
+###### 15 
+I will lay waste the mountains and hills  And wither all their vegetation;  I will turn the rivers into coastlands  And dry up the ponds.   
 
 ###### 16 
 I will lead those who are blind by a way they have not known,  In paths they have not known I will guide them.  I will turn darkness into light before them  And uneven land into plains.  These are the things I will do,  And I will not leave them undone."   
-
-###### 17 
-They will be turned back _and_ be utterly put to shame,  Who trust in idols,  Who say to cast metal images,  "You are our gods."  
-
-###### 18 
 
 </div></div>
 
@@ -368,13 +372,13 @@ They will be turned back _and_ be utterly put to shame,  Who trust in idols,  
 
 
 
+
+###### 17 
+They will be turned back _and_ be utterly put to shame,  Who trust in idols,  Who say to cast metal images,  "You are our gods."  
+
+###### 18 
 Hear, you who are deaf!  And look, you who are blind, so that you may see.   
 
-###### 19 
-Who is blind but My servant,  Or so deaf as My messenger whom I send?  Who is so blind as one who is at peace _with Me_,  Or so blind as the servant of the LORD?   
-
-###### 20 
-You have seen many things, but you do not retain _them_;  _Your_ ears are open, but no one hears.   
 
 </div></div>
 
@@ -385,14 +389,14 @@ You have seen many things, but you do not retain _them_;  _Your_ ears are open,
 
 
 
+But Zion said, "The LORD has abandoned me,  And the Lord has forgotten me."   
+
+###### 15 
+"Can a woman forget her nursing child  And have no compassion on the son of her womb?  Even these may forget, but I will not forget you.   
+
 ###### 16 
 Behold, I have inscribed you on the palms _of My hands_;  Your walls are continually before Me.   
 
-###### 17 
-Your builders hurry;  Your destroyers and devastators  Will leave you.   
-
-###### 18 
-Raise your eyes and look around;  All of them gather together, they come to you.  As I live," declares the LORD,  "You will certainly put them all on as jewelry and bind them on as a bride.   
 
 </div></div>
 
@@ -403,12 +407,12 @@ Raise your eyes and look around;  All of them gather together, they come to you
 
 
 
+
+###### 2 
+For behold, darkness will cover the earth  And deep darkness the peoples;  But the LORD will rise upon you  And His glory will appear upon you.   
+
+###### 3 
 Nations will come to your light,  And kings to the brightness of your rising.  
-
-###### 4 
-"Raise your eyes all around and see;  They all gather together, they come to you.  Your sons will come from afar,  And your daughters will be carried on the hip.   
-
-###### 5 
 
 </div></div>
 
@@ -416,12 +420,12 @@ Nations will come to your light,  And kings to the brightness of your rising.
 
 
 
+A multitude of camels will cover you,  The young camels of Midian and Ephah;  All those from Sheba will come;  They will bring gold and frankincense,  And proclaim good news of the praises of the LORD.   
+
+###### 7 
+All the flocks of Kedar will be gathered to you,  The rams of Nebaioth will serve you;  They will go up on My altar with acceptance,  And I will glorify My glorious house.   
+
 ###### 8 
-Who are these who fly like a cloud  And like the doves to their windows?   
-
-###### 9 
-Certainly the coastlands will wait for Me;  And the ships of Tarshish _will come_ first,  To bring your sons from afar,  Their silver and their gold with them,  For the name of the LORD your God,  And for the Holy One of Israel because He has glorified you.  
-
 
 </div></div>
 
@@ -432,8 +436,9 @@ Certainly the coastlands will wait for Me;  And the ships of Tarshish _will com
 
 
 
+You will give truth to Jacob  _And_ favor to Abraham,  Which You swore to our forefathers  From the days of old.
 
-[[Mic 6|← Micah 6]] | [[Micah]]
+
 
 
 </div></div>
@@ -445,10 +450,10 @@ Certainly the coastlands will wait for Me;  And the ships of Tarshish _will com
 
 
 
-leave your offering there before the altar and go; first be reconciled to your brother, and then come and present your offering.  
 
-###### 25 
-Come to good terms with your accuser quickly, while you are with him on the way _to court_, so that your accuser will not hand you over to the judge, and the judge to the officer, and you will not be thrown into prison.  
+###### 23 
+Therefore, if you are presenting your offering at the altar, and there you remember that your brother has something against you,  
+
 
 </div></div>
 
@@ -456,11 +461,11 @@ Come to good terms with your accuser quickly, while you are with him on the way 
 
 
 
-###### 27 
-"You have heard that it was said, 'You shall not commit adultery';  
+Come to good terms with your accuser quickly, while you are with him on the way _to court_, so that your accuser will not hand you over to the judge, and the judge to the officer, and you will not be thrown into prison.  
 
-###### 28 
-but I say to you that everyone who looks at a woman with lust for her has already committed adultery with her in his heart.  
+###### 26 
+Truly I say to you, you will not come out of there until you have paid up the last quadrans.  
+
 
 </div></div>
 
@@ -482,10 +487,10 @@ but I say to you that everyone who looks at a woman with lust for her has alread
 
 
 
-For when the foolish took their lamps, they did not take _extra_ oil with them;  
 
-###### 4 
-but the prudent ones took oil in flasks with their lamps.  
+###### 2 
+Five of them were foolish, and five were prudent.  
+
 
 </div></div>
 
@@ -493,11 +498,11 @@ but the prudent ones took oil in flasks with their lamps.
 
 
 
-"Now after a long time the master of those slaves *came and *settled accounts with them.  
 
-###### 20 
-The one who had received the five talents came up and brought five more talents, saying, 'Master, you entrusted five talents to me. See, I have earned five more talents.'  
+###### 18 
+But he who received the one _talent_ went away and dug _a hole in the_ ground, and hid his master's money.  
 
+###### 19 
 
 </div></div>
 
@@ -508,10 +513,10 @@ The one who had received the five talents came up and brought five more talents,
 
 
 
-###### 31 
-_It is_ like a mustard seed, which, when sown upon the soil, though it is the smallest of all the seeds that are upon the soil,  
+Now when the crop permits, he immediately puts in the sickle, because the harvest has come."Parable of the Mustard Seed  
 
-###### 32 
+###### 30 
+And He was saying, **"How shall we picture the kingdom of God, or by what parable shall we present it?**  
 
 </div></div>
 
@@ -519,10 +524,10 @@ _It is_ like a mustard seed, which, when sown upon the soil, though it is the sm
 
 
 
-yet when it is sown, it grows up and becomes larger than all the garden plants, and forms large branches, with the result that the birds of the sky can nest under its shade."  
 
-###### 33 
-And with many such parables He was speaking the word to them, so far as they were able to understand _it_;  
+###### 31 
+_It is_ like a mustard seed, which, when sown upon the soil, though it is the smallest of all the seeds that are upon the soil,  
+
 
 </div></div>
 
@@ -533,10 +538,10 @@ And with many such parables He was speaking the word to them, so far as they wer
 
 
 
-so that the blood of all the prophets, shed since the foundation of the world, may be charged against this generation,  
 
-###### 51 
-from the blood of Abel to the blood of Zechariah, who was killed between the altar and the house _of God_; yes, I tell you, it shall be charged against this generation.'  
+###### 49 
+For this reason also, the wisdom of God said, 'I will send them prophets and apostles, and _some_ of them they will kill, and _some_ they will persecute,  
+
 
 </div></div>
 
@@ -544,11 +549,11 @@ from the blood of Abel to the blood of Zechariah, who was killed between the alt
 
 
 
-plotting against Him to catch Him in something He might say.AboutHelpOur NetworkSocialPreferences By submitting your email address, you understand that you will receive email communications from Bible Gateway, operated by HarperCollins Christian Publishing, 501 Nelson Pl, Nashville, TN 37214 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway&rsquo;s emails at any time. If you have any questions, please review our [Privacy Policy] or email us at [privacy@biblegateway.com]. Preferences
 
-***
+###### 53 
+When He left that place, the scribes and the Pharisees began to be very hostile and to interrogate Him about many _subjects_,  
 
-[[Luke 10|← Luke 10]] | [[Luke]] | [[Luke 12|Luke 12 →]]
+###### 54 
 
 </div></div>
 
@@ -560,8 +565,8 @@ plotting against Him to catch Him in something He might say.AboutHelpOur Network
 
 
 
-###### 7 
-He came as a witness, to testify about the Light, so that all might believe through him.  
+###### 6 
+A man came, _one_ sent from God, _and_ his name was John.  
 
 
 </div></div>
@@ -570,10 +575,10 @@ He came as a witness, to testify about the Light, so that all might believe thro
 
 
 
-###### 14 
-And the Word became flesh, and dwelt among us; and we saw His glory, glory as of the only _Son_ from the Father, full of grace and truth.  
+###### 13 
+who were born, not of blood, nor of the will of the flesh, nor of the will of a man, but of God.The Word Made Flesh  
 
-###### 15 
+###### 14 
 
 </div></div>
 
@@ -584,10 +589,10 @@ And the Word became flesh, and dwelt among us; and we saw His glory, glory as of
 
 
 
-You yourselves are my witnesses that I said, 'I am not the Christ,' but, 'I have been sent ahead of Him.'  
 
-###### 29 
-He who has the bride is the groom; but the friend of the groom, who stands and listens to him, rejoices greatly because of the groom's voice. So this joy of mine has been made full.  
+###### 27 
+John replied, "A person can receive not even one thing unless it has been given to him from heaven.  
+
 
 </div></div>
 
@@ -595,11 +600,11 @@ He who has the bride is the groom; but the friend of the groom, who stands and l
 
 
 
-###### 31 
-"He who comes from above is above all; the one who is _only_ from the earth is of the earth and speaks of the earth. He who comes from heaven is above all.  
+He who has the bride is the groom; but the friend of the groom, who stands and listens to him, rejoices greatly because of the groom's voice. So this joy of mine has been made full.  
 
-###### 32 
-What He has seen and heard, of this He testifies; and no one accepts His testimony.  
+###### 30 
+He must increase, but I must decrease.  
+
 
 </div></div>
 
@@ -610,10 +615,10 @@ What He has seen and heard, of this He testifies; and no one accepts His testimo
 
 
 
-I am He who testifies about Myself, and the Father who sent Me testifies about Me."  
 
-###### 19 
-So they were saying to Him, "Where is Your Father?" Jesus answered, **"You know neither Me nor My Father; if you knew Me, you would know My Father also."**  
+###### 17 
+Even in your Law it has been written that the testimony of two people is true.  
+
 
 </div></div>
 
@@ -624,10 +629,10 @@ So they were saying to Him, "Where is Your Father?" Jesus answered, **"You know 
 
 
 
+###### 7 
+and said to him, **"Go, wash in the pool of Siloam"** (which is translated, Sent). So he left and washed, and came _back_ seeing.  
 
-###### 9 
-Others were saying, "This is he," _still_ others were saying, "No, but he is like him." The man himself kept saying, "I am _the one_."  
-
+###### 8 
 
 </div></div>
 
@@ -638,10 +643,10 @@ Others were saying, "This is he," _still_ others were saying, "No, but he is lik
 
 
 
-###### 50 
-And I know that His commandment is eternal life; therefore the things I speak, I speak just as the Father has told Me."AboutHelpOur NetworkSocialPreferences By submitting your email address, you understand that you will receive email communications from Bible Gateway, operated by HarperCollins Christian Publishing, 501 Nelson Pl, Nashville, TN 37214 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway&rsquo;s emails at any time. If you have any questions, please review our [Privacy Policy] or email us at [privacy@biblegateway.com]. Preferences
+The one who rejects Me and does not accept My teachings has one who judges him: the word which I spoke. That will judge him on the last day.  
 
-***
+###### 49 
+For I did not speak on My own, but the Father Himself who sent Me has given Me a commandment _as to_ what to say and what to speak.  
 
 </div></div>
 
@@ -650,7 +655,9 @@ And I know that His commandment is eternal life; therefore the things I speak, I
 
 
 
-[[John 11|← John 11]] | [[John]] | [[John 13|John 13 →]]
+###### 50 
+And I know that His commandment is eternal life; therefore the things I speak, I speak just as the Father has told Me."
+
 
 
 </div></div>
@@ -662,11 +669,11 @@ And I know that His commandment is eternal life; therefore the things I speak, I
 
 
 
-King Agrippa, do you believe the Prophets? I know that you believe."  
 
-###### 28 
-Agrippa _replied_ to Paul, "In a short _time_ you _are going to_ persuade me to make a Christian _of myself_."  
+###### 26 
+For the king knows about these matters, and I also speak to him with confidence, since I am persuaded that none of these things escape his notice; for this has not been done in a corner.  
 
+###### 27 
 
 </div></div>
 
@@ -688,11 +695,11 @@ Agrippa _replied_ to Paul, "In a short _time_ you _are going to_ persuade me to 
 
 
 
-###### 10 
-always carrying around in the body the dying of Jesus, so that the life of Jesus may also be revealed in our body.  
+_we are_ afflicted in every way, but not crushed; perplexed, but not despairing;  
 
-###### 11 
-For we who live are constantly being handed over to death because of Jesus, so that the life of Jesus may also be revealed in our mortal flesh.  
+###### 9 
+persecuted, but not abandoned; struck down, but not destroyed;  
+
 
 </div></div>
 
@@ -703,10 +710,10 @@ For we who live are constantly being handed over to death because of Jesus, so t
 
 
 
-But all things become visible when they are exposed by the light, for everything that becomes visible is light.  
 
-###### 14 
-For this reason it says, "Awake, sleeper,  And arise from the dead,  And Christ will shine on you."  
+###### 12 
+for it is disgraceful even to speak of the things which are done by them in secret.  
+
 
 </div></div>
 
@@ -714,14 +721,14 @@ For this reason it says, "Awake, sleeper,  And arise from the dead,  And Chri
 
 
 
+
+###### 20 
+always giving thanks for all things in the name of our Lord Jesus Christ to _our_ God and Father;  
+
+###### 21 
 and subject yourselves to one another in the fear of Christ.Marriage like Christ and the Church  
 
 ###### 22 
-Wives, _subject yourselves_ to your own husbands, as to the Lord.  
-
-###### 23 
-For the husband is the head of the wife, as Christ also is the head of the church, He Himself _being_ the Savior of the body.  
-
 
 </div></div>
 
@@ -732,10 +739,10 @@ For the husband is the head of the wife, as Christ also is the head of the churc
 
 
 
-He is also the head of the body, the church; and He is the beginning, the firstborn from the dead, so that He Himself will come to have first place in everything.  
+He is before all things, and in Him all things hold together.  
 
-###### 19 
-For it was the _Father's_ good pleasure for all the fullness to dwell in Him,  
+###### 18 
+He is also the head of the body, the church; and He is the beginning, the firstborn from the dead, so that He Himself will come to have first place in everything.  
 
 
 </div></div>
@@ -744,10 +751,10 @@ For it was the _Father's_ good pleasure for all the fullness to dwell in Him,
 
 
 
-###### 20 
-and through Him to reconcile all things to Himself, whether things on earth or things in heaven, having made peace through the blood of His cross.  
+###### 19 
+For it was the _Father's_ good pleasure for all the fullness to dwell in Him,  
 
-###### 21 
+###### 20 
 
 </div></div>
 
@@ -758,10 +765,10 @@ and through Him to reconcile all things to Himself, whether things on earth or t
 
 
 
-###### 8 
-But since we are of _the_ day, let's be sober, having put on the breastplate of faith and love, and as a helmet, the hope of salvation.  
+###### 7 
+For those who sleep, sleep at night, and those who are drunk, get drunk at night.  
 
-###### 9 
+###### 8 
 
 </div></div>
 
@@ -772,10 +779,10 @@ But since we are of _the_ day, let's be sober, having put on the breastplate of 
 
 
 
-If we say that we have no sin, we are deceiving ourselves and the truth is not in us.  
+but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.  
 
-###### 9 
-If we confess our sins, He is faithful and righteous, so that He will forgive us our sins and cleanse us from all unrighteousness.  
+###### 8 
+If we say that we have no sin, we are deceiving ourselves and the truth is not in us.  
 
 </div></div>
 
@@ -783,9 +790,9 @@ If we confess our sins, He is faithful and righteous, so that He will forgive us
 
 
 
-***
+###### 10 
+If we say that we have not sinned, we make Him a liar and His word is not in us.
 
-[[1 John]] | [[1 John 2|1 John 2 →]]
 
 
 </div></div>
@@ -816,10 +823,10 @@ If we confess our sins, He is faithful and righteous, so that He will forgive us
 
 
 
+###### 7 
+"And behold, I am coming quickly. Blessed is the one who keeps the words of the prophecy of this book."  
+
 ###### 8 
 I, John, am the one who heard and saw these things. And when I heard and saw _them_, I fell down to worship at the feet of the angel who showed me these things.  
-
-###### 9 
-And he *said to me, "Do not do that; I am a fellow servant of yours and of your brothers the prophets, and of those who keep the words of this book. Worship God!"The Final Message  
 
 </div></div>

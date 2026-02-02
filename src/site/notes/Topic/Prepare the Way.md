@@ -12,10 +12,10 @@ In days past, a King in victory would announce himself coming prior to going pas
 
 
 
-###### 3 
-The voice of one calling out in the wilderness,  'Prepare the way of the Lord,  Make His paths straight!'"  
+###### 2 
+just as it is written in Isaiah the prophet: "Behold, I am sending My messenger before You,  Who will prepare Your way;   
 
-###### 4 
+###### 3 
 
 </div></div>
 
@@ -23,13 +23,13 @@ The voice of one calling out in the wilderness,  'Prepare the way of the Lord, 
 
 
 
+The voice of one calling out in the wilderness,  'Prepare the way of the Lord,  Make His paths straight!'"  
+
+###### 4 
 John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.  
 
 ###### 5 
 And all the country of Judea was going out to him, and all the people of Jerusalem; and they were being baptized by him in the Jordan River, confessing their sins.  
-
-###### 6 
-John was clothed with camel's hair and _wore_ a leather belt around his waist, and his diet was locusts and wild honey.  
 
 </div></div>
 
@@ -40,11 +40,11 @@ John was clothed with camel's hair and _wore_ a leather belt around his waist, a
 
 
 
+###### 6 
+John was clothed with camel's hair and _wore_ a leather belt around his waist, and his diet was locusts and wild honey.  
+
 ###### 7 
 And he was preaching, saying, "After me One is coming who is mightier than I, and I am not fit to bend down and untie the straps of His sandals.  
-
-###### 8 
-I baptized you with water; but He will baptize you with the Holy Spirit."The Baptism of Jesus  
 
 
 </div></div>
@@ -55,10 +55,10 @@ I baptized you with water; but He will baptize you with the Holy Spirit."The Bap
 
 
 
-###### 9 
-In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.  
+###### 8 
+I baptized you with water; but He will baptize you with the Holy Spirit."The Baptism of Jesus  
 
-###### 10 
+###### 9 
 
 </div></div>
 
@@ -72,10 +72,10 @@ In those days Jesus came from Nazareth in Galilee and was baptized by John in th
 
 
 
-And immediately coming up out of the water, He saw the heavens opening, and the Spirit, like a dove, descending upon Him;  
+In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.  
 
-###### 11 
-and a voice came from the heavens: "You are My beloved Son; in You I am well pleased."  
+###### 10 
+And immediately coming up out of the water, He saw the heavens opening, and the Spirit, like a dove, descending upon Him;  
 
 </div></div>
 
@@ -86,8 +86,8 @@ and a voice came from the heavens: "You are My beloved Son; in You I am well ple
 
 
 
-###### 12 
-And immediately the Spirit *brought Him out into the wilderness.  
+###### 11 
+and a voice came from the heavens: "You are My beloved Son; in You I am well pleased."  
 
 
 </div></div>
@@ -104,10 +104,10 @@ And immediately the Spirit *brought Him out into the wilderness.
 
 
 
-###### 13 
-And He was in the wilderness for forty days, being tempted by Satan; and He was with the wild animals, and the angels were serving Him.Jesus Preaches in Galilee  
+###### 12 
+And immediately the Spirit *brought Him out into the wilderness.  
 
-###### 14 
+###### 13 
 
 </div></div>
 
@@ -116,10 +116,10 @@ And He was in the wilderness for forty days, being tempted by Satan; and He was 
 
 
 
-Now after John was taken into custody, Jesus came into Galilee, preaching the gospel of God,  
+And He was in the wilderness for forty days, being tempted by Satan; and He was with the wild animals, and the angels were serving Him.Jesus Preaches in Galilee  
 
-###### 15 
-and saying, **"The time is fulfilled, and the kingdom of God has come near; repent and believe in the gospel."**  
+###### 14 
+Now after John was taken into custody, Jesus came into Galilee, preaching the gospel of God,  
 
 
 </div></div>
@@ -138,10 +138,10 @@ and saying, **"The time is fulfilled, and the kingdom of God has come near; repe
 
 
 
-the commanders of the Ammonites said to their lord Hanun, "Do you think that David is _simply_ honoring your father since he has sent you _servants_ to console you? Has David not sent his servants to you in order to explore the city, to spy it out and overthrow it?"  
 
-###### 4 
-So Hanun took David's servants and shaved off half of their beards, and cut off their robes in the middle as far as their buttocks, and sent them away.  
+###### 2 
+Then David said, "I will show kindness to Hanun the son of Nahash, just as his father showed kindness to me." So David sent some of his servants to console him about his father. But when David's servants came to the land of the Ammonites,  
+
 
 </div></div>
 
@@ -149,32 +149,32 @@ So Hanun took David's servants and shaved off half of their beards, and cut off 
 
 
 
+###### 3 
+the commanders of the Ammonites said to their lord Hanun, "Do you think that David is _simply_ honoring your father since he has sent you _servants_ to console you? Has David not sent his servants to you in order to explore the city, to spy it out and overthrow it?"  
+
+###### 4 
+
+</div></div>
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+So Hanun took David's servants and shaved off half of their beards, and cut off their robes in the middle as far as their buttocks, and sent them away.  
 
 ###### 5 
 When _messengers_ informed David, he sent _servants_ to meet them, because the men were extremely humiliated. And the king said, "Stay in Jericho until your beards grow _back_, and _then_ you shall return."  
 
-
 </div></div>
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
 ###### 6 
 Now when the sons of Ammon saw that they had become repulsive to David, the sons of Ammon sent _messengers_ and hired the Arameans of Beth-rehob and the Arameans of Zobah, twenty thousand foot soldiers, and the king of Maacah _with_ a thousand men, and the men of Tob _with_ twelve thousand men.  
 
-###### 7 
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-When David heard _about this_, he sent Joab and all the army, the warriors.  
-
-###### 8 
-And the sons of Ammon came out and lined up for battle at the entrance of the city, while the Arameans of Zobah and of Rehob and the men of Tob and Maacah _were stationed_ by themselves in the field.  
 
 </div></div>
  
@@ -182,11 +182,11 @@ And the sons of Ammon came out and lined up for battle at the entrance of the ci
 
 
 
+###### 7 
+When David heard _about this_, he sent Joab and all the army, the warriors.  
 
-###### 9 
-Now when Joab saw that the battle was set against him at the front and at the rear, he selected _warriors_ from all the choice men in Israel, and lined _them_ up against the Arameans.  
-
-###### 10 
+###### 8 
+And the sons of Ammon came out and lined up for battle at the entrance of the city, while the Arameans of Zobah and of Rehob and the men of Tob and Maacah _were stationed_ by themselves in the field.  
 
 </div></div>
 
@@ -197,10 +197,10 @@ Now when Joab saw that the battle was set against him at the front and at the re
 
 
 
-But the remainder of the people he placed under the command of his brother Abishai, and he lined _them_ up against the sons of Ammon.  
 
-###### 11 
-And he said, "If the Arameans are too strong for me, then you shall help me; but if the sons of Ammon are too strong for you, then I will come to help you.  
+###### 9 
+Now when Joab saw that the battle was set against him at the front and at the rear, he selected _warriors_ from all the choice men in Israel, and lined _them_ up against the Arameans.  
+
 
 </div></div>
 
@@ -208,22 +208,22 @@ And he said, "If the Arameans are too strong for me, then you shall help me; but
 
 
 
+###### 10 
+But the remainder of the people he placed under the command of his brother Abishai, and he lined _them_ up against the sons of Ammon.  
+
+###### 11 
+
+</div></div>
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+And he said, "If the Arameans are too strong for me, then you shall help me; but if the sons of Ammon are too strong for you, then I will come to help you.  
 
 ###### 12 
 Be strong, and let's show ourselves courageous for the sake of our people and the cities of our God; and may the LORD do what is good in His sight."  
 
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### 13 
-So Joab and the people who were with him advanced to the battle against the Arameans, and they fled from him.  
-
-###### 14 
-When the sons of Ammon saw that the Arameans had fled, they _also_ fled from Abishai and entered the city. Then Joab returned from _fighting_ against the sons of Ammon and came to Jerusalem.  
 
 </div></div>
 
@@ -233,21 +233,32 @@ When the sons of Ammon saw that the Arameans had fled, they _also_ fled from Abi
 
 
 
+###### 13 
+So Joab and the people who were with him advanced to the battle against the Arameans, and they fled from him.  
 
-###### 15 
-When the Arameans saw that they had been defeated by Israel, they assembled together.  
-
+###### 14 
 
 </div></div>
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+When the sons of Ammon saw that the Arameans had fled, they _also_ fled from Abishai and entered the city. Then Joab returned from _fighting_ against the sons of Ammon and came to Jerusalem.  
+
+###### 15 
+When the Arameans saw that they had been defeated by Israel, they assembled together.  
+
+</div></div>
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
 ###### 16 
 And Hadadezer sent _word_ and brought out the Arameans who were beyond the _Euphrates_ River, and they came to Helam; and Shobach the commander of the army of Hadadezer led them.  
 
-###### 17 
 
 </div></div>
 
@@ -255,21 +266,10 @@ And Hadadezer sent _word_ and brought out the Arameans who were beyond the _Euph
 
 
 
+###### 17 
 Now when it was reported to David, he gathered all Israel together and crossed the Jordan, and came to Helam. And the Arameans lined up against David and fought him.  
 
 ###### 18 
-But the Arameans fled from Israel, and David killed seven hundred charioteers of the Arameans and forty thousand horsemen, and struck Shobach the commander of their army, and he died there.  
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-###### 19 
-When all the kings, servants of Hadadezer, saw that they had been defeated by Israel, they made peace with Israel and served them. So the Arameans were afraid to help the sons of Ammon anymore.AboutHelpOur NetworkSocialPreferences By submitting your email address, you understand that you will receive email communications from Bible Gateway, operated by HarperCollins Christian Publishing, 501 Nelson Pl, Nashville, TN 37214 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway&rsquo;s emails at any time. If you have any questions, please review our [Privacy Policy] or email us at [privacy@biblegateway.com]. Preferences
-
 
 </div></div>
 
@@ -284,16 +284,18 @@ When all the kings, servants of Hadadezer, saw that they had been defeated by Is
 
 
 
-***
+But the Arameans fled from Israel, and David killed seven hundred charioteers of the Arameans and forty thousand horsemen, and struck Shobach the commander of their army, and he died there.  
 
-[[2 Sam 9|← 2 Samuel 9]] | [[2 Samuel]] | [[2 Sam 11|2 Samuel 11 →]]
-
+###### 19 
+When all the kings, servants of Hadadezer, saw that they had been defeated by Israel, they made peace with Israel and served them. So the Arameans were afraid to help the sons of Ammon anymore.
 
 </div></div>
 
 - Joab started the battle here while the Syrians were just waging war.
 >
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
@@ -354,10 +356,10 @@ There are times when trouble come **by no cause**, even from those who you calle
 
 
 
-Stay in that house, eating and drinking what they provide; for the laborer is deserving of his wages. Do not move from house to house.  
 
-###### 8 
-Whatever city you enter and they receive you, eat what is served to you;  
+###### 6 
+And if a man of peace is there, your peace will rest upon him; but if not, it will return to you.  
+
 
 </div></div>
 
@@ -368,10 +370,10 @@ Whatever city you enter and they receive you, eat what is served to you;
 
 
 
-###### 51 
-But Jesus responded and said, **"Stop! No more of this."** And He touched his ear and healed him.  
+When those who were around Him saw what was going to happen, they said, "Lord, shall we strike with the sword?"  
 
-###### 52 
+###### 50 
+And one of them struck the slave of the high priest and cut off his right ear.  
 
 </div></div>
 
@@ -382,9 +384,9 @@ But Jesus responded and said, **"Stop! No more of this."** And He touched his ea
 
 
 
-And Jesus said to the chief priests and officers of the temple and elders who had come against Him, **"Have you come out with swords and clubs as _you would_ against a man inciting a revolt?**  
 
-###### 53 
-While I was with you daily in the temple, you did not lay hands on Me; but this hour and the power of darkness are yours."Jesus' Arrest  
+###### 51 
+But Jesus responded and said, **"Stop! No more of this."** And He touched his ear and healed him.  
+
 
 </div></div>
