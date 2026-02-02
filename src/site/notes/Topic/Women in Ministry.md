@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-02-01T18:57:27.722-08:00"}
+{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-02-01T18:58:08.318-08:00"}
 ---
 
 
@@ -71,7 +71,7 @@ At that time, women were also **disruptive during worship** (some people say for
 
 
 Praying with uncovered head at the time was a way to show disobedient to the culture at the time.
-> **1 Corinthians 11:5**
+ **1 Corinthians 11:5**
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
