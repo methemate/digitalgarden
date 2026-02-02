@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2025-12-12T13:51:51.000-08:00"}
+{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-02-01T18:50:44.831-08:00"}
 ---
 
 
@@ -22,6 +22,7 @@ This was about **==disorder==**.
 In Corinth, people were worshipping **Aphrodite**. Aphrodite’s cult was tied to *sexual freedom* and *indulgence*. The environment encouraged women to use sexuality as power, **leading to abuse of roles**. “your body is a temple of the Holy Spirit” reaffirm that sexuality as under Christ’s authority, not a goddess’s. (To worship the goddess, you would go to her temple and have sex with the priests). So you can see how Aphrodite had so much influence.
 
 > **1 Corinthians 6:19–20**
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -29,8 +30,7 @@ In Corinth, people were worshipping **Aphrodite**. Aphrodite’s cult was tied t
 
 
 </div></div>
- 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
