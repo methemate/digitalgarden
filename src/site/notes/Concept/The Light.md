@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-02-01T16:16:17.800-08:00"}
+{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-02-01T16:32:43.850-08:00"}
 ---
 
 Our God is the **Father of Lights** ([[KJV Tagged + Lexicon/Bible 2/59 - James/James 1#17\|James 1#17]]).  
@@ -286,7 +286,7 @@ Water becomes hard like stone,  And the surface of the deep is imprisoned.
 </div></div>
 
 
-> **Psalm 19:1–6** – The sun’s course declared  
+>> **Psalm 19:1–6 — The sun’s course declared**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -300,19 +300,78 @@ Day to day pours forth speech,  And night to night reveals knowledge.
 There is no speech, nor are there words;  Their voice is not heard.   
 
 </div></div>
-![[psalm 19#6\|psalm 19#6]]
+  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-> **Psalm 27:1** – “The LORD is my light and my salvation”  
-> ![[psalm 27#1\|psalm 27#1]]
 
-> **Psalm 36:9** – “In your light we see light”  
-> ![[psalm 36#9\|psalm 36#9]]
 
-> **Psalm 104:2** – God covers himself with light as a garment  
-> ![[psalm 104#2\|psalm 104#2]]
+###### 12 
+Who can discern _his_ errors? Acquit me of hidden _faults_.   
 
-> **Psalm 119:105** – “Your word is a lamp… a light”  
-> ![[psalm 119#105\|psalm 119#105]]
+###### 13 
+Also keep Your servant back from presumptuous _sins_;  Let them not rule over me;  Then I will be innocent,  And I will be blameless of great wrongdoing.   
+
+###### 14 
+
+</div></div>
+
+
+> **Psalm 27:1 — “The LORD is my light and my salvation”**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+###### 2 
+When evildoers came upon me to devour my flesh,  My adversaries and my enemies, they stumbled and fell.   
+
+###### 3 
+If an army encamps against me,  My heart will not fear;  If war arises against me,  In _spite of_ this I am confident.  
+
+###### 4 
+
+</div></div>
+
+
+> **Psalm 36:9 — “In your light we see light”**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
+
+> **Psalm 104:2 — God covers himself with light as a garment**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### 4 
+He makes the winds His messengers,  Flaming fire His ministers.  
+
+###### 5 
+He established the earth upon its foundations,  So that it will not totter forever and ever.   
+
+
+</div></div>
+
+
+> **Psalm 119:105 — “Your word is a lamp… a light”**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
 
 > **Proverbs 4:18–19** – Path of the righteous like dawn; way of the wicked darkness  
 > 
