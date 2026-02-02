@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-02-01T18:52:00.690-08:00"}
+{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-02-01T18:57:27.722-08:00"}
 ---
 
 
@@ -21,8 +21,8 @@ This was about **==disorder==**.
 
 In Corinth, people were worshipping **Aphrodite**. Aphrodite’s cult was tied to *sexual freedom* and *indulgence*. The environment encouraged women to use sexuality as power, **leading to abuse of roles**. “your body is a temple of the Holy Spirit” reaffirm that sexuality as under Christ’s authority, not a goddess’s. (To worship the goddess, you would go to her temple and have sex with the priests). So you can see how Aphrodite had so much influence.
 
-> **1 Corinthians 6:19–20**
-> 
+**1 Corinthians 6:19–20**  
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -33,6 +33,7 @@ Or do you not know that your body is a temple of the Holy Spirit within you, who
 
 
 </div></div>
+  
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -49,7 +50,8 @@ For you have been bought for a price: therefore glorify God in your body.
 
 At that time, women were also **disruptive during worship** (some people say for lack of education; Imo their questions were more so because they are taught by the Aphrodite worshipper). So Paul decree for them to ask their husband.
 
-> **1 Corinthians 14:33–35**
+**1 Corinthians 14:33–35** 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -58,7 +60,7 @@ At that time, women were also **disruptive during worship** (some people say for
 
 </div></div>
   
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
