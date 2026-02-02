@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-02-01T18:50:44.831-08:00"}
+{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-02-01T18:52:00.690-08:00"}
 ---
 
 
@@ -27,12 +27,19 @@ In Corinth, people were worshipping **Aphrodite**. Aphrodite’s cult was tied t
 
 
 
+###### 19 
+Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God, and _that_ you are not your own? 
+ 
 
 
 </div></div>
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+
+
+###### 20 
+For you have been bought for a price: therefore glorify God in your body.
 
 
 
