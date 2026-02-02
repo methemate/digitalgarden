@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-02-01T18:39:28.178-08:00"}
+{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-02-01T18:42:48.631-08:00"}
 ---
 
 Our God is the **Father of Lights** ([[KJV Tagged + Lexicon/Bible 2/59 - James/James 1#17\|James 1#17]]).  
@@ -46,7 +46,7 @@ This authority is exercised through **obedience and overcoming temptation** ([[K
 # The Rest are under construction lol
 ## 📖 **Mentions in Scripture**
 
-> **Genesis 1:3–5** – Light created; day and night named  
+> **Genesis 1:3–5 – Light created; day and night named**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -58,7 +58,8 @@ God saw that the light was good; and God separated the light from the darkness.
 God called the light "day," and the darkness He called "night." And there was evening and there was morning, one day.  
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -72,7 +73,7 @@ God called the expanse "heaven." And there was evening and there was morning, a 
 </div></div>
 
 
-> **Genesis 1:14–18** – Sun, moon, and stars as lights for signs and seasons  
+> **Genesis 1:14–18 – Sun, moon, and stars as lights for signs and seasons**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -84,7 +85,8 @@ Then God said, "Let the waters teem with swarms of living creatures, and let bir
 ###### 21 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -97,7 +99,16 @@ Then God said, "Let Us make mankind in Our image, according to Our likeness; and
 </div></div>
 
 
-> **Exodus 13:21–22** – Pillar of fire by night to give light  
+> **Exodus 13:21–22 – Pillar of fire by night to give light**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -107,6 +118,9 @@ Then God said, "Let Us make mankind in Our image, according to Our likeness; and
 
 </div></div>
 
+
+> **Exodus 25:31–40 – Lampstand (menorah) for the sanctuary**  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -114,9 +128,7 @@ Then God said, "Let Us make mankind in Our image, according to Our likeness; and
 
 
 </div></div>
-
-
-> **Exodus 25:31–40** – Lampstand (menorah) for the sanctuary  
+  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -126,16 +138,8 @@ Then God said, "Let Us make mankind in Our image, according to Our likeness; and
 
 </div></div>
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-
-
-
-
-</div></div>
-
-
-> **Leviticus 24:2–4** – The lamps to burn continually  
+> **Leviticus 24:2–4 – The lamps to burn continually**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -147,7 +151,8 @@ Outside the veil of the testimony in the tent of meeting, Aaron shall keep it in
 ###### 4 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -161,7 +166,16 @@ And you shall set them _in_ two rows, six _to_ a row, on the pure _gold_ table b
 </div></div>
 
 
-> **Numbers 6:24–26** – “The LORD make his face shine upon you”  
+> **Numbers 6:24–26 – “The LORD make his face shine upon you”**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -171,16 +185,8 @@ And you shall set them _in_ two rows, six _to_ a row, on the pure _gold_ table b
 
 </div></div>
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-
-
-
-
-</div></div>
-
-
-> **Deuteronomy 4:19** – Warning not to worship sun, moon, and stars  
+> **Deuteronomy 4:19 – Warning not to worship sun, moon, and stars**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -194,7 +200,7 @@ The LORD will scatter you among the peoples, and you will be left few in number 
 </div></div>
 
 
-> **Joshua 10:12–13** – Sun and moon stand still  
+> **Joshua 10:12–13 – Sun and moon stand still**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -209,7 +215,8 @@ So Joshua said, "Roll large stones against the mouth of the cave, and post men b
 ###### 19 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -224,7 +231,7 @@ It came about when Joshua and the sons of Israel had finished striking them down
 </div></div>
 
 
-> **2 Samuel 23:3–4** – The just ruler as morning light when the sun rises  
+> **2 Samuel 23:3–4 – The just ruler as morning light when the sun rises**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -240,7 +247,8 @@ These are the names of the mighty men whom David had: Josheb-basshebeth, a Tahch
 ###### 9 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -257,7 +265,7 @@ Now after him was Shammah the son of Agee, a Hararite. And the Philistines were 
 </div></div>
 
 
-> **Job 38:12–15** – God commands the morning; dawn takes hold  
+> **Job 38:12–15 – God commands the morning; dawn takes hold**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -271,7 +279,8 @@ Where is the way that the light is divided,  _And_ the east wind scattered on t
 ###### 25 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -286,7 +295,7 @@ Water becomes hard like stone,  And the surface of the deep is imprisoned.
 </div></div>
 
 
->> **Psalm 19:1–6 — The sun’s course declared**  
+> **Psalm 19:1–6 – The sun’s course declared**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -317,7 +326,7 @@ Also keep Your servant back from presumptuous _sins_;  Let them not rule over m
 </div></div>
 
 
-> **Psalm 27:1 — “The LORD is my light and my salvation”**  
+> **Psalm 27:1 – “The LORD is my light and my salvation”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -335,7 +344,7 @@ If an army encamps against me,  My heart will not fear;  If war arises against
 </div></div>
 
 
-> **Psalm 36:9 — “In your light we see light”**  
+> **Psalm 36:9 – “In your light we see light”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -346,7 +355,7 @@ If an army encamps against me,  My heart will not fear;  If war arises against
 </div></div>
 
 
-> **Psalm 104:2 — God covers himself with light as a garment**  
+> **Psalm 104:2 – God covers himself with light as a garment**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -362,7 +371,7 @@ He established the earth upon its foundations,  So that it will not totter fore
 </div></div>
 
 
-> **Psalm 119:105 — “Your word is a lamp… a light”**  
+> **Psalm 119:105 – “Your word is a lamp… a light”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -373,7 +382,16 @@ He established the earth upon its foundations,  So that it will not totter fore
 </div></div>
 
 
-> **Proverbs 4:18–19** – Path of the righteous like dawn; way of the wicked darkness  
+> **Proverbs 4:18–19 – Path of the righteous like dawn; way of the wicked darkness**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -383,16 +401,8 @@ He established the earth upon its foundations,  So that it will not totter fore
 
 </div></div>
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-
-
-
-
-</div></div>
-
-
-> **Isaiah 9:2** – People who walked in darkness have seen a great light  
+> **Isaiah 9:2 – People who walked in darkness have seen a great light**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -410,7 +420,7 @@ For every boot of the marching warrior in the roar _of battle_,  And cloak roll
 </div></div>
 
 
-> **Isaiah 42:6–7** – Servant as a light to the nations; opening blind eyes  
+> **Isaiah 42:6–7 – Servant as a light to the nations; opening blind eyes**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -426,7 +436,8 @@ I will lay waste the mountains and hills  And wither all their vegetation;  I 
 I will lead those who are blind by a way they have not known,  In paths they have not known I will guide them.  I will turn darkness into light before them  And uneven land into plains.  These are the things I will do,  And I will not leave them undone."   
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -442,7 +453,7 @@ Hear, you who are deaf!  And look, you who are blind, so that you may see.
 </div></div>
 
 
-> **Isaiah 49:6** – Light for the nations; salvation to the ends of the earth  
+> **Isaiah 49:6 – Light for the nations; salvation to the ends of the earth**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -460,7 +471,7 @@ Behold, I have inscribed you on the palms _of My hands_;  Your walls are contin
 </div></div>
 
 
-> **Isaiah 60:1–3** – “Arise, shine… the LORD will arise upon you”  
+> **Isaiah 60:1–3 – “Arise, shine… the LORD will arise upon you”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -474,7 +485,8 @@ For behold, darkness will cover the earth  And deep darkness the peoples;  But
 Nations will come to your light,  And kings to the brightness of your rising.  
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -489,7 +501,7 @@ All the flocks of Kedar will be gathered to you,  The rams of Nebaioth will ser
 </div></div>
 
 
-> **Micah 7:8** – “When I sit in darkness, the LORD will be a light to me”  
+> **Micah 7:8 – “When I sit in darkness, the LORD will be a light to me”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -503,7 +515,7 @@ You will give truth to Jacob  _And_ favor to Abraham,  Which You swore to our 
 </div></div>
 
 
-> **Matthew 5:14–16** – “You are the light of the world”  
+> **Matthew 5:14–16 – “You are the light of the world”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -515,7 +527,8 @@ Therefore, if you are presenting your offering at the altar, and there you remem
 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -529,7 +542,7 @@ Truly I say to you, you will not come out of there until you have paid up the la
 </div></div>
 
 
-> **Matthew 13:43** – “The righteous will shine like the sun”  
+> **Matthew 13:43 – “The righteous will shine like the sun”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -540,7 +553,7 @@ Truly I say to you, you will not come out of there until you have paid up the la
 </div></div>
 
 
-> **Matthew 25:1–13** – Parable of the ten virgins; lamps prepared  
+> **Matthew 25:1–13 – Parable of the ten virgins; lamps prepared**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -552,7 +565,8 @@ Five of them were foolish, and five were prudent.
 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -566,7 +580,7 @@ But he who received the one _talent_ went away and dug _a hole in the_ ground, a
 </div></div>
 
 
-> **Mark 4:21–22** – Lamp brought to give light; nothing hidden forever  
+> **Mark 4:21–22 – Lamp brought to give light; nothing hidden forever**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -578,7 +592,8 @@ Now when the crop permits, he immediately puts in the sickle, because the harves
 And He was saying, **"How shall we picture the kingdom of God, or by what parable shall we present it?**  
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -591,7 +606,7 @@ _It is_ like a mustard seed, which, when sown upon the soil, though it is the sm
 </div></div>
 
 
-> **Luke 11:33–36** – Lamp of the body; light within  
+> **Luke 11:33–36 – Lamp of the body; light within**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -603,7 +618,8 @@ For this reason also, the wisdom of God said, 'I will send them prophets and apo
 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -617,7 +633,7 @@ When He left that place, the scribes and the Pharisees began to be very hostile 
 </div></div>
 
 
-> **John 1:4–9** – Life as light; true light coming into the world  
+> **John 1:4–9 – Life as light; true light coming into the world**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -629,7 +645,8 @@ A man came, _one_ sent from God, _and_ his name was John.
 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -642,7 +659,7 @@ who were born, not of blood, nor of the will of the flesh, nor of the will of a 
 </div></div>
 
 
-> **John 3:19–21** – Light has come; deeds exposed  
+> **John 3:19–21 – Light has come; deeds exposed**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -654,7 +671,8 @@ John replied, "A person can receive not even one thing unless it has been given 
 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -668,7 +686,7 @@ He must increase, but I must decrease.
 </div></div>
 
 
-> **John 8:12** – “I am the light of the world”  
+> **John 8:12 – “I am the light of the world”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -682,7 +700,7 @@ Even in your Law it has been written that the testimony of two people is true.
 </div></div>
 
 
-> **John 9:5** – “While I am in the world, I am the light of the world”  
+> **John 9:5 – “While I am in the world, I am the light of the world”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -696,7 +714,7 @@ and said to him, **"Go, wash in the pool of Siloam"** (which is translated, Sent
 </div></div>
 
 
-> **John 12:35–36** – Walk while you have the light; become sons of light  
+> **John 12:35–36 – Walk while you have the light; become sons of light**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -708,7 +726,8 @@ The one who rejects Me and does not accept My teachings has one who judges him: 
 For I did not speak on My own, but the Father Himself who sent Me has given Me a commandment _as to_ what to say and what to speak.  
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -722,7 +741,7 @@ And I know that His commandment is eternal life; therefore the things I speak, I
 </div></div>
 
 
-> **Acts 26:18** – Turn from darkness to light  
+> **Acts 26:18 – Turn from darkness to light**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -737,7 +756,7 @@ For the king knows about these matters, and I also speak to him with confidence,
 </div></div>
 
 
-> **Romans 13:12** – Cast off works of darkness; put on armor of light  
+> **Romans 13:12 – Cast off works of darkness; put on armor of light**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -748,7 +767,7 @@ For the king knows about these matters, and I also speak to him with confidence,
 </div></div>
 
 
-> **2 Corinthians 4:6** – God who said “Let light shine” shines in hearts  
+> **2 Corinthians 4:6 – God who said “Let light shine” shines in hearts**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -763,7 +782,7 @@ persecuted, but not abandoned; struck down, but not destroyed;
 </div></div>
 
 
-> **Ephesians 5:8–14** – Walk as children of light; “Awake… Christ will shine on you”  
+> **Ephesians 5:8–14 – Walk as children of light; “Awake… Christ will shine on you”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -775,7 +794,8 @@ for it is disgraceful even to speak of the things which are done by them in secr
 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -792,7 +812,7 @@ and subject yourselves to one another in the fear of Christ.Marriage like Christ
 </div></div>
 
 
-> **Colossians 1:12–13** – Inheritance of the saints in light; delivered from darkness  
+> **Colossians 1:12–13 – Inheritance of the saints in light; delivered from darkness**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -805,7 +825,8 @@ He is also the head of the body, the church; and He is the beginning, the firstb
 
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -818,7 +839,7 @@ For it was the _Father's_ good pleasure for all the fullness to dwell in Him,
 </div></div>
 
 
-> **1 Thessalonians 5:5** – “You are all children of light”  
+> **1 Thessalonians 5:5 – “You are all children of light”**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -832,7 +853,7 @@ For those who sleep, sleep at night, and those who are drunk, get drunk at night
 </div></div>
 
 
-> **1 John 1:5–7** – God is light; walking in the light  
+> **1 John 1:5–7 – God is light; walking in the light**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -844,7 +865,8 @@ but if we walk in the Light as He Himself is in the Light, we have fellowship wi
 If we say that we have no sin, we are deceiving ourselves and the truth is not in us.  
 
 </div></div>
-
+  
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -857,7 +879,16 @@ If we say that we have not sinned, we make Him a liar and His word is not in us.
 </div></div>
 
 
-> **Revelation 21:23–24** – No need of sun or moon; Lamb is its light  
+> **Revelation 21:23–24 – No need of sun or moon; Lamb is its light**  
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -867,16 +898,8 @@ If we say that we have not sinned, we make Him a liar and His word is not in us.
 
 </div></div>
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-
-
-
-
-</div></div>
-
-
-> **Revelation 22:5** – No night; the Lord God gives them light  
+> **Revelation 22:5 – No night; the Lord God gives them light**  
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
